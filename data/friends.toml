@@ -1,0 +1,124 @@
+title = "Friends"
+
+[[seasons]]
+title = "Season 1"
+
+    [[seasons.episodes]]
+    title = "The One Where Monica Gets a Roommate"
+    aired = "1994-09-22"
+    description = """Monica and the gang introduce Rachel to the "real world" after she leaves her fiancé at the altar."""
+
+    [[seasons.episodes]]
+    title = "The One with the Sonogram at the End"
+    aired = "1994-09-29"
+    description = """Ross finds out his ex-wife is pregnant. Rachel returns her engagement ring to Barry. Monica becomes stressed when her and Ross's parents come to visit."""
+
+    [[seasons.episodes]]
+    title = "The One with the Thumb"
+    aired = "1994-10-06"
+    description = """Monica becomes irritated when everyone likes her new boyfriend more than she does. Chandler resumes his smoking habit. Phoebe is given $7000 when she finds a thumb in a can of soda."""
+
+    [[seasons.episodes]]
+    title = "The One with George Stephanopoulos"
+    aired = "1994-10-13"
+    description = """Joey and Chandler take Ross to a hockey game to take his mind off the anniversary of the first time he slept with Carol, while the girls become depressed when they realize they don't have a 'plan'."""
+
+    [[seasons.episodes]]
+    title = "The One with the East German Laundry Detergent"
+    aired = "1994-10-20"
+    description = """Eager to spend time with Rachel, Ross pretends his washroom is rat-infested so he can join her at the laundromat. Meanwhile, Joey has Monica pose as his girlfriend, and Chandler struggles to break up with his girlfriend."""
+
+    [[seasons.episodes]]
+    title = "The One with the Butt"
+    aired = "1994-10-27"
+    description = """Monica's obsessiveness is put to the test after Rachel cleans the apartment. Joey lands a film role as Al Pacino's butt double. Chandler enjoys a relationship with all of the fun but none of the responsibility."""
+
+    [[seasons.episodes]]
+    title = "The One with the Blackout"
+    aired = "1994-11-03"
+    description = """When New York suffers from a blackout, Ross tries to tell Rachel that he likes her, and Chandler gets stuck in an ATM vestibule with a model."""
+
+    [[seasons.episodes]]
+    title = "The One Where Nana Dies Twice"
+    aired = "1994-11-10"
+    description = """Monica and Ross mourn the loss of their grandmother. Chandler is shocked to find that people think he is gay."""
+
+    [[seasons.episodes]]
+    title = "The One Where Underdog Gets Away"
+    aired = "1994-11-17"
+    description = """The gang's plans for Thanksgiving go awry after they get locked out of Monica and Rachel's apartment."""
+
+    [[seasons.episodes]]
+    title = "The One with the Monkey"
+    aired = "1994-12-15"
+    description = """The gang make (and break) a pact not to bring dates to their New Years Eve party. Phoebe starts dating a scientist. Ross compensates for his loneliness by getting a monkey."""
+
+    [[seasons.episodes]]
+    title = "The One with Mrs. Bing"
+    aired = "1995-01-05"
+    description = """Chandler's flamboyant romance-novelist mother comes to visit, and Joey catches her kissing Ross. Meanwhile, Monica and Phoebe fight over a guy in a coma."""
+
+    [[seasons.episodes]]
+    title = "The One with the Dozen Lasagnas"
+    aired = "1995-01-12"
+    description = """Rachel and Paolo's relationship hits a snag when he makes a pss at Phoebe. Ross refuses to find out the sex of his baby until it's born. Chandler and Joey go shopping for a new kitchen table."""
+
+    [[seasons.episodes]]
+    title = "The One with the Boobies"
+    aired = "1995-01-19"
+    description = """Joey finds out his dad has a mistress. Rachel tries to even the score after Chandler inadvertently catches a glimpse of her breasts. Phoebe dates a shrink who analyzes the gang."""
+
+    [[seasons.episodes]]
+    title = "The One with the Candy Hearts"
+    aired = "1995-02-09"
+    description = """As Valentine's Day approaches; Ross and his date end up at the same restaurant as Carol and Susan, Joey inadvertently sets Chandler up on a blind date with Janice, and the girls burn mementos of their old boyfriends."""
+
+    [[seasons.episodes]]
+    title = "The One with the Stoned Guy"
+    aired = "1995-02-16"
+    description = """Monica cooks a gourmet meal for a restaurateur who is looking for a new chef, however he arrives at the apartment stoned. Meanwhile, Ross tries to master 'dirty talk'."""
+
+    [[seasons.episodes]]
+    title = "The One with Two Parts: Part 1"
+    aired = "1995-02-23"
+    description = """Phoebe feels neglected when Joey falls for her twin sister. Chandler struggles to fire an attractive co-worker. Ross attends Lamaze classes with Carol and Susan."""
+
+    [[seasons.episodes]]
+    title = "The One with Two Parts: Part 2"
+    aired = "1995-02-23"
+    description = """Rachel switches identities with Monica so she can use her health insurance. Meanwhile, Ursula continues to come between Phoebe and Joey."""
+
+    [[seasons.episodes]]
+    title = "The One with All the Poker"
+    aired = "1995-03-02"
+    description = """As Rachel interviews for a new job, the girls take on the guys in a game of poker."""
+
+    [[seasons.episodes]]
+    title = "The One Where the Monkey Gets Away"
+    aired = "1995-03-09"
+    description = """The gang frantically search for Ross's monkey Marcel after Rachel loses him."""
+
+    [[seasons.episodes]]
+    title = "The One with the Evil Orthodontist"
+    aired = "1995-04-06"
+    description = """Rachel and Barry start dating again, despite the fact that he's now engaged to Mindy; Chandler goes nuts when a woman he likes won't return his phone calls."""
+
+    [[seasons.episodes]]
+    title = "The One with the Fake Monica"
+    aired = "1995-04-27"
+    description = """Monica befriends the woman who stole her credit card. Ross is forced to give away Marcel. Joey tries to come up with a less ethnic-sounding stage name."""
+
+    [[seasons.episodes]]
+    title = "The One with the Ick Factor"
+    aired = "1995-05-04"
+    description = """Monica gets a shock when she finds out her boyfriend is a high school student. Chandler finds out his colleagues don't like him when Phoebe temps as his secretary."""
+
+    [[seasons.episodes]]
+    title = "The One with the Birth"
+    aired = "1995-05-11"
+    description = """As Carol goes into labor; Ross and Susan argue, Rachel flirts with Carol's doctor, and Joey assists a pregnant single mother."""
+
+    [[seasons.episodes]]
+    title = "The One Where Rachel Finds Out"
+    aired = "1995-05-18"
+    description = """As Ross leaves for China, Chandler accidentally reveals Ross's feelings for Rachel. Joey takes part in a fertility study and is unable to sleep with his new girlfriend."""

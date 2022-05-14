@@ -1,0 +1,44 @@
+title = "Silicon Valley"
+
+[[seasons]]
+title = "Season 1"
+
+    [[seasons.episodes]]
+    title = "Minimum Viable Product"
+    aired = "2014-04-06"
+    description = """Richard is a computer programmer. He has to choose between a $10 million deal with Gavin Belson and a $200,000 deal with Peter Gregory, in exchange for his cooperation to make the idea of a super compressing algorithm change the world."""
+
+    [[seasons.episodes]]
+    title = "The Cap Table"
+    aired = "2014-04-13"
+    description = """Richard hires Jared to design a business plan. Big Head is asked to work for Gavin Belson, where he discovers that Hooli has stolen the Pied Piper algorithm and calls it Nucleus. Meanwhile Richard struggles to get his money from Gregory."""
+
+    [[seasons.episodes]]
+    title = "Articles of Incorporation"
+    aired = "2014-04-20"
+    description = """The guys find themselves in trouble with their company name when they find out it's already taken. So whilst Richard tries to find a solution, Erlich searches for a new name in another dimension of his consciousness."""
+
+    [[seasons.episodes]]
+    title = "Fiduciary Duties"
+    aired = "2014-04-27"
+    description = """Richard drunkenly promises to make Erlich a board member, which he regrets the next morning. Big Head finds others at Hooli, who like him, have made careers out of doing nothing. Richard struggles to put Pied Piper's vision into words."""
+
+    [[seasons.episodes]]
+    title = "Signaling Risk"
+    aired = "2014-05-04"
+    description = """Now that Pied Piper is the official company name, Erlich wants a logotype to go with it so he hires a very unexpected artist in for the job. Meanwhile Richard gets a tighter deadline for the project after a simple mistake."""
+
+    [[seasons.episodes]]
+    title = "Third Party Insourcing"
+    aired = "2014-05-11"
+    description = """Richard comes across a problem in the code writing and hires Kevin, a young kid, to write the code for him."""
+
+    [[seasons.episodes]]
+    title = "Proof of Concept"
+    aired = "2014-05-18"
+    description = """Richard has trouble getting Pied Piper ready in time for the TechCrunch Disrupt, while Erlich realizes he slept with the wife of one of the judges of the contest."""
+
+    [[seasons.episodes]]
+    title = "Optimal Tip-To-Tip Efficiency"
+    aired = "2014-06-01"
+    description = """Pied Piper makes it to the next stage of Disrupt but runs into trouble with Hooli's presentation. The guys break out into a ridiculous argument and Richard tries to pull Pied Piper together before the big presentation."""

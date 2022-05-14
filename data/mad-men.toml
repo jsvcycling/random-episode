@@ -1,0 +1,482 @@
+title = "Mad Men"
+
+[[seasons]]
+title = "Season 1"
+
+    [[seasons.episodes]]
+    title = "Smoke Gets in Your Eyes"
+    aired = "2007-07-19"
+    description = """The first episode. New York City, 1960s. In the ego-driven Golden Age of advertising, everyone is selling something and nothing is what it seems."""
+
+    [[seasons.episodes]]
+    title = "Ladies Room"
+    aired = "2007-07-26"
+    description = """Don is forced to reconsider an account. Joan asks Peggy out to lunch. Roger's story causes Betty to be curious about Don."""
+
+    [[seasons.episodes]]
+    title = "Marriage of Figaro"
+    aired = "2007-08-02"
+    description = """Don run sinto an old friend. Pete returns to the office to a warm welcome. Betty and Don prep for Sally's big celebration."""
+
+    [[seasons.episodes]]
+    title = "New Amsterdam"
+    aired = "2007-08-09"
+    description = """Don's pitch is undermined by a co-worker. Betty does a favor for a neighbor. Pete looks to upgrade his living situation."""
+
+    [[seasons.episodes]]
+    title = "5G"
+    aired = "2007-08-16"
+    description = """Don receives an award and a surprise at the office. Pete is jealous when the office fawns over Ken's accomplishments. Peggy asks Joan for advice."""
+
+    [[seasons.episodes]]
+    title = "Babylon"
+    aired = "2007-08-23"
+    description = """Don calls upon a friend for help with an account. Roger expresses his concern for his daughter. Peggy is given an opportunity."""
+
+    [[seasons.episodes]]
+    title = "Red in the Face"
+    aired = "2007-08-30"
+    description = """Don invites Roger into his home. Pete's irresponsible behavior poses a challenge to his marriage. Betty and Don butt heads."""
+
+    [[seasons.episodes]]
+    title = "The Hobo Code"
+    aired = "2007-09-06"
+    description = """Don is praised and rewarded for his talents at work. Peggy and Pete arrive early for work with big days ahead of them. Sal is faced with a decision."""
+
+    [[seasons.episodes]]
+    title = "Shoot"
+    aired = "2007-09-13"
+    description = """Don entertains a proposition at work. The office notices when Peggy gets help from Joan. Betty reminisces about her past with her neighbor."""
+
+    [[seasons.episodes]]
+    title = "Long Weekend"
+    aired = "2007-09-27"
+    description = """Don prepares for a trip. Roger tries to find a way to entertain himself for the long weekend. Joan declines invitations."""
+
+    [[seasons.episodes]]
+    title = "Indian Summer"
+    aired = "2007-10-04"
+    description = """Don gets new opportunities at work. Peggy is given a difficult assignment. Betty finds a new outlet for her growing dissatisfaction."""
+
+    [[seasons.episodes]]
+    title = "Nixon vs. Kennedy"
+    aired = "2007-10-11"
+    description = """Pete's ambitions cause him to directly challenge Don. The Sterling Cooper staff pulls a rowdy all-nighter in the office."""
+
+    [[seasons.episodes]]
+    title = "The Wheel"
+    aired = "2007-10-18"
+    description = """Don's work responsibilities interfere with his domestic life. Peggy is given a new opportunity. Betty makes a startling discovery."""
+
+[[seasons]]
+title = "Season 2"
+
+    [[seasons.episodes]]
+    title = "For Those Who Think Young"
+    aired = "2008-07-26"
+    description = """Don and Duck are at odds. Peggy shows a new secretary the ropes. The agency hustles to stay on top and buzzes over the newest office equipment."""
+
+    [[seasons.episodes]]
+    title = "Flight 1"
+    aired = "2008-08-02"
+    description = """Don doesn't agree with the agency's new plan of attack. Paul hosts a party at his apartment. Peggy visits her family for dinner."""
+
+    [[seasons.episodes]]
+    title = "The Benefactor"
+    aired = "2008-08-09"
+    description = """Don and Betty have dinner with a client. Harry takes initiative to gather support around a sponsorship. Trouble arises during a commercial shoot."""
+
+    [[seasons.episodes]]
+    title = "Three Sundays"
+    aired = "2008-08-16"
+    description = """Don and Betty enjoy a family weekend together. Peggy meets someone new. Sterling Cooper staffers work double time to prepare for a meeting."""
+
+    [[seasons.episodes]]
+    title = "The New Girl"
+    aired = "2008-08-23"
+    description = """Don enlists Peggy's help with a client. Joan finally finds Don the perfect secretary. Pete is anxious at home and by the world."""
+
+    [[seasons.episodes]]
+    title = "Maidenform"
+    aired = "2008-08-30"
+    description = """Roger wants Don & Duck to make peace. Peggy tries to insinuate herself into meetings. Betty and Don go to a country club."""
+
+    [[seasons.episodes]]
+    title = "The Gold Violin"
+    aired = "2008-09-06"
+    description = """Don debates buying a new car. Sterling Cooper staffers are intrigued by a new addition to Cooper's office. Joan clashes with Don's new secretary."""
+
+    [[seasons.episodes]]
+    title = "A Night to Remember"
+    aired = "2008-09-13"
+    description = """Don test markets a new product to a new demographic. Peggy applies her talents at church. Harry recruits assistance from an unlikely source."""
+
+    [[seasons.episodes]]
+    title = "Six Month Leave"
+    aired = "2008-09-27"
+    description = """Don proves his loyalty when he stands up for an old friend. Inspired by Don, Roger makes a change. Betty takes her housekeeper's advice."""
+
+    [[seasons.episodes]]
+    title = "The Inheritance"
+    aired = "2008-10-04"
+    description = """Don tries to help Betty. Pete and Paul prepare for a business trip, a welcome distraction to their problems at home. Betty confides in her neighbor."""
+
+    [[seasons.episodes]]
+    title = "The Jet Set"
+    aired = "2008-10-11"
+    description = """Don makes new friends on a business trip. Peggy asks a co-worker for romance advice. Duck shares his ambition with Roger."""
+
+    [[seasons.episodes]]
+    title = "The Mountain King"
+    aired = "208-10-18"
+    description = """Don meets with an old friend. Pete's personal life presents problems and affects an account at work as well. Joan has an unpleasant encounter."""
+
+    [[seasons.episodes]]
+    title = "Meditations in an Emergency"
+    aired = "2008-10-25"
+    description = """Sterling Cooper's future is changing with or without Don. Betty learns some disconcerting news. Pete works up the courage to tell the truth."""
+
+[[seasons]]
+title = "Season 3"
+
+    [[seasons.episodes]]
+    title = "Out of Town"
+    aired = "2009-08-15"
+    description = """Don goes on a business trip. Pete and Ken find the new changes at Sterling Cooper surprising. Sal gets to try something new."""
+
+    [[seasons.episodes]]
+    title = "Love Among The Ruins"
+    aired = "2009-08-22"
+    description = """Don tries to change a client's mind. Betty grapples with a family dilemma. Roger makes a family event into a competition."""
+
+    [[seasons.episodes]]
+    title = "My Old Kentucky Home"
+    aired = "2009-08-29"
+    description = """The writers fight off boredom when they are forced to work after hours. Roger hosts a party while Joan and Greg host a party of their own."""
+
+    [[seasons.episodes]]
+    title = "The Arrangements"
+    aired = "2009-09-05"
+    description = """Gene and Don cross paths. Peggy is looking for a roommate. A wealthy new client has very high hopes."""
+
+    [[seasons.episodes]]
+    title = "The Fog"
+    aired = "2009-09-12"
+    description = """Don and Betty have a meeting with Sally's teacher. Pete pursues a new angle in business. Betty has a strange dream. Peggy entertains an offer."""
+
+    [[seasons.episodes]]
+    title = "Guy Walks Into An Advertising Agency"
+    aired = "2009-09-19"
+    description = """Sterling Cooper receives a surprise visit. Don meets with a high-profile client. Something is spooking Sally. Joan gets some unexpected news."""
+
+    [[seasons.episodes]]
+    title = "Seven Twenty Three"
+    aired = "2009-09-26"
+    description = """Don's forced into thinking about the future. Betty tries her hand at local politics. Peggy receives a luxurious gift. Roger's jealous of a competitor."""
+
+    [[seasons.episodes]]
+    title = "Souvenir"
+    aired = "2009-10-03"
+    description = """Don takes Betty on a business trip. Pete helps a neighbor in his building. Sally learns a lesson on what it means to be a girl."""
+
+    [[seasons.episodes]]
+    title = "Wee Small Hours"
+    aired = "2009-10-10"
+    description = """Don and Sal both have difficulty giving the clients exactly what they want. Betty volunteers to host a fundraiser at her house."""
+
+    [[seasons.episodes]]
+    title = "The Cold Blue"
+    aired = "2009-10-17"
+    description = """The firm celebrates a milestone. Peggy and Paul compete on an account."""
+
+    [[seasons.episodes]]
+    title = "The Gypsy and the Hobo"
+    aired = "2009-10-24"
+    description = """While Betty takes the kids on a trip, Don plans a trip of his own. A former client returns to Sterling Cooper. Joan and Greg plan for their future."""
+
+    [[seasons.episodes]]
+    title = "The Grown Ups"
+    aired = "2009-10-31"
+    description = """Don meets with an impressive candidate. Peggy second-guesses her taste in men. Pete makes big career decisions. Shocking news ruins Roger's event."""
+
+    [[seasons.episodes]]
+    title = "Shut the Door. Have a Seat."
+    aired = "2009-11-07"
+    description = """Don has a very informative meeting with a client. Betty receives some advice. Pete talks to his clients. Roger delivers new information to Don."""
+
+[[seasons]]
+title = "Season 4"
+
+    [[seasons.episodes]]
+    title = "Public Relations"
+    aired = "2010-07-24"
+    description = """Don makes a mistake that jeopardizes the new agency. Pete brings in potential new business. Peggy formulates a plan to keep a client."""
+
+    [[seasons.episodes]]
+    title = "Christmas Comes But Once a Year"
+    aired = "2010-07-31"
+    description = """A last minute visitor threatens to spoil the agency's Christmas Party. Sally runs into an old friend. The agency gets a new account and adds staff."""
+
+    [[seasons.episodes]]
+    title = "The Good News"
+    aired = "2010-08-07"
+    description = """Don decides to change his travel plans last minute. Joan has scheduling problems. Don and Lane get to know each other a little better."""
+
+    [[seasons.episodes]]
+    title = "The Rejected"
+    aired = "2010-08-14"
+    description = """An edict from Roger and Lane puts Pete in a personal dilemma. Don green-lights a concept of Peggy's. Peggy goes to a party."""
+
+    [[seasons.episodes]]
+    title = "The Chrysanthemum and the Sword"
+    aired = "2010-08-21"
+    description = """Don and Pete go against Roger in efforts to win a new account to compete with a rival. Betty's beside herself when Sally acts out."""
+
+    [[seasons.episodes]]
+    title = "Waldorf Stories"
+    aired = "2010-08-28"
+    description = """Peggy clashes with her new creative partner. Don pitches under unusual circumstances. Roger reminisces as he works on a new project."""
+
+    [[seasons.episodes]]
+    title = "The Suitcase"
+    aired = "2010-09-04"
+    description = """A deadline disrupts Sterling Cooper Draper Pryce. Don avoids returning a phone call. Peggy delays her personal plans for work."""
+
+    [[seasons.episodes]]
+    title = "The Summer Man"
+    aired = "2010-09-11"
+    description = """Joan and Peggy deal with hijinx in the office. Don writes down his thoughts in a journal. Betty ruins a nice dinner she's having with Henry."""
+
+    [[seasons.episodes]]
+    title = "The Beautiful Girls"
+    aired = "2010-09-18"
+    description = """Peggy receives a romantic gift that could compromise her career. Don gets a surprise visitor. Roger makes a social faux pas."""
+
+    [[seasons.episodes]]
+    title = "Hands and Knees"
+    aired = "2010-09-25"
+    description = """An unannounced visitor at the Francis home rattles Betty. Don tells an ecstatic Sally that he's taking her to a concert. Joan delivers news to Roger."""
+
+    [[seasons.episodes]]
+    title = "Chinese Wall"
+    aired = "2010-10-07"
+    description = """Sterling Cooper Draper Pryce employees resort to scuttlebutt after an agency wide meeting is called. Don trusts Peggy to lead a presentation."""
+
+    [[seasons.episodes]]
+    title = "Blowing Smoke"
+    aired = "2010-10-09"
+    description = """In the midst of a crisis, Don runs into an old friend. Sally gets advice from a friend. Lane worries about the future of the agency."""
+
+    [[seasons.episodes]]
+    title = "Tomorrowland"
+    aired = "2010-10-16"
+    description = """Don takes a trip with his children. Lane gives good news to Joan. Pete, Roger, and Don ask Ken to exploit his family connections."""
+
+[[seasons]]
+title = "Season 5"
+
+    [[seasons.episodes]]
+    title = "A Little Kiss Part 1"
+    aired = "2012-03-24"
+    description = """In the Season 5 two-hour premiere, we're welcomed back with a surprise for Don, Pete and Roger butt heads, and Joan clashes with a houseguest."""
+
+    [[seasons.episodes]]
+    title = "A Little Kiss Part 2"
+    aired = "2012-03-24"
+    description = """In the Season 5 two-hour premiere, we're welcomed back with a surprise for Don, Pete and Roger butt heads, and Joan clashes with a houseguest."""
+
+    [[seasons.episodes]]
+    title = "Tea Leaves"
+    aired = "2012-03-31"
+    description = """As Sterling Cooper Draper Pryce tries to build upon its current business, Peggy is given new responsibility as Don and Harry indulge a client."""
+
+    [[seasons.episodes]]
+    title = "Mystery Date"
+    aired = "2010-04-07"
+    description = """Don runs into someone from his past. Joan makes a difficult decision. Roger gives Peggy extra work. Sally hears something she shouldn't."""
+
+    [[seasons.episodes]]
+    title = "Signal 30"
+    aired = "2010-04-14"
+    description = """Lane strikes up an interesting friendship. Pete and Trudy have a dinner party. A secret meeting sparks Peggy to take interest in Ken."""
+
+    [[seasons.episodes]]
+    title = "Far Away Places"
+    aired = "2012-04-21"
+    description = """Peggy is rattled by a particularly difficult pitch. Don and Megan visits a potential client. Roger tries out a new hobby."""
+
+    [[seasons.episodes]]
+    title = "At the Codfish Ball"
+    aired = "2012-04-28"
+    description = """Don, Roger, and Pete attempt to bring in new business. Sally comes to the aid of a relative. Peggy's expectations are not met."""
+
+    [[seasons.episodes]]
+    title = "Lady Lazarus"
+    aired = "2012-05-05"
+    description = """Peggy is irritated by a secret she has to keep. Pete covers for a friend. Don gets unexpected news. Don and Peggy botch a pitch."""
+
+    [[seasons.episodes]]
+    title = "Dark Shadows"
+    aired = "2012-05-12"
+    description = """Sally faces a challenge. Roger seeks new business."""
+
+    [[seasons.episodes]]
+    title = "Christmas Waltz"
+    aired = "2012-05-19"
+    description = """Christmas wishes come true as everyone gets a gift. Don tests out a client's product. Harry helps out an old friend. Lane worries over finances."""
+
+    [[seasons.episodes]]
+    title = "The Other Woman"
+    aired = "2012-05-26"
+    description = """Don's challenged by an important pitch. Pete and Ken get a disturbing tip from a client. Peggy contemplates a trip. Joan entertains a proposal."""
+
+    [[seasons.episodes]]
+    title = "Commissions and Fees"
+    aired = "2012-06-02"
+    description = """Motivated by a chance encounter, Don follows a surprising lead. Sally complains about a family trip. Pete introduces a new way of doing business."""
+
+    [[seasons.episodes]]
+    title = "The Phantom"
+    aired = "2012-06-09"
+    description = """In the Season 5 finale, opportunity is in the air for everyone. Pete meets a stranger on the train. Don deals with a medical emergency."""
+
+[[seasons]]
+title = "Season 6"
+
+    [[seasons.episodes]]
+    title = "The Doorway Part 1"
+    aired = "2013-04-06"
+    description = """In Part 1 of the Season 6 two-hour premiere, Don spearheads a new campaign, Roger gets some unsettling news, and Betty takes in a houseguest."""
+
+    [[seasons.episodes]]
+    title = "The Doorway Part 2"
+    aired = "2013-04-06"
+    description = """In Part 2 of the Season 6 two-hour premiere, Don spearheads a new campaign, Roger gets some unsettling news, and Betty takes in a houseguest."""
+
+    [[seasons.episodes]]
+    title = "Collaborators"
+    aired = "2013-04-13"
+    description = """Don doesn't agree with a client's direction. Pete entertains guests in his home. Peggy struggles to motivate the other creatives."""
+
+    [[seasons.episodes]]
+    title = "To Have and To Hold"
+    aired = "2013-04-20"
+    description = """The partners work to keep the wraps on a secret campaign. Joan is visited by an old friend. Megan is given more responsibility."""
+
+    [[seasons.episodes]]
+    title = "The Flood"
+    aired = "2013-04-27"
+    description = """Peggy makes substantial plans for the future. Megan's big night is ruined by an unexpected event. Don is surprised by his son."""
+
+    [[seasons.episodes]]
+    title = "For Immediate Release"
+    aired = "2013-05-04"
+    description = """Roger changes tack to make new business. Don comes up with a secret plan to win a client. Pete has an awkward run-in with a client."""
+
+    [[seasons.episodes]]
+    title = "Man with a Plan"
+    aired = "2013-05-11"
+    description = """Sterling Cooper Draper Pryce tries to placate competing clients. Don is distracted at work. Pete is blindsided by an unexpected guest."""
+
+    [[seasons.episodes]]
+    title = "The Crash"
+    aired = "2013-05-18"
+    description = """The agency brings in an expert to get an added boost to help with their work. Don is disrupted by a surprise visitor. Ken entertains clients."""
+
+    [[seasons.episodes]]
+    title = "The Better Half"
+    aired = "2013-05-23"
+    description = """Roger is plagued by a recurring dream. Don takes a surprise trip. Joan goes to the beach. Harry reveals his plans for the future to Pete."""
+
+    [[seasons.episodes]]
+    title = "A Tale of Two Cities"
+    aired = "2013-06-01"
+    description = """The agency works to hold onto a client. Roger has his own agenda for Don. Joan brings a new business opportunity into the agency."""
+
+    [[seasons.episodes]]
+    title = "Favors"
+    aired = "2013-06-08"
+    description = """Don attends a client meeting with his own agenda. Betty plans for Sally's future. Pete and Ted have a conflict of interest."""
+
+    [[seasons.episodes]]
+    title = "The Quality of Mercy"
+    aired = "2013-06-15"
+    description = """The partners disagree on a new campaign. Don takes a day off. Ken makes a proposal to Pete. Sally asks a friend for help."""
+
+    [[seasons.episodes]]
+    title = "In Care Of"
+    aired = "2013-06-22"
+    description = """Don has a problem. Ken breaks the news that a big company is looking for an advertising agency. Pete is faced with a tough decision."""
+
+[[seasons]]
+title = "Season 7"
+
+    [[seasons.episodes]]
+    title = "Time Zones"
+    aired = "2014-04-12"
+    description = """Don makes a new friend. Joan meets a client for drinks. Peggy hears impressive new work. Roger has a puzzling phone call."""
+
+    [[seasons.episodes]]
+    title = "A Day's Work"
+    aired = "2014-04-19"
+    description = """Peggy receives a bouquet of flowers at the office. Pete navigates the politics of new business. Joan is put in an impossibly awkward situation."""
+
+    [[seasons.episodes]]
+    title = "Field Trip"
+    aired = "2014-04-26"
+    description = """Don takes an impromptu trip. Betty has lunch with a friend. Harry lobbies for a cause. The partners consider a questionable asset."""
+
+    [[seasons.episodes]]
+    title = "The Monolith"
+    aired = "2014-05-03"
+    description = """Sterling Cooper & Partners prepares for a guest. Don calls an old friend. Roger confronts problems at home. Pete underestimates Peggy."""
+
+    [[seasons.episodes]]
+    title = "The Runaways"
+    aired = "2014-05-10"
+    description = """Don has a visitor from his past. Stan embarrasses a superior. Peggy helps Ginsberg with a problem. Harry finds that he has a new ally at the agency."""
+
+    [[seasons.episodes]]
+    title = "The Strategy"
+    aired = "2014-05-17"
+    description = """Peggy determinedly collects research for a pitch. Pete is invited to join an exclusive club. Joan looks forward to spending time with her friend."""
+
+    [[seasons.episodes]]
+    title = "Waterloo"
+    aired = "2014-05-24"
+    description = """Don receives a troubling letter. A risky venture entails a new future for Peggy. Roger gets an unexpected phone call. Pete butts heads with Cutler."""
+
+    [[seasons.episodes]]
+    title = "Severance"
+    aired = "2015-04-04"
+    description = """Don tries to track down a friend. Joan struggles to solve a problem with an account. Peggy is set up by an unlikely person."""
+
+    [[seasons.episodes]]
+    title = "New Business"
+    aired = "2015-04-11"
+    description = """Roger gives Don some unwanted advice. Peggy and Stan disagree over an account's personnel. Harry asks for Don's blessing."""
+
+    [[seasons.episodes]]
+    title = "The Forecast"
+    aired = "2015-04-18"
+    description = """Roger pawns off a project onto Don. Joan goes on a business trip. Peggy and Pete clash over how to deal with an account emergency."""
+
+    [[seasons.episodes]]
+    title = "Time & Life"
+    aired = "2015-04-25"
+    description = """Don comes up with a big idea. Roger asks Joan for help with a clerical error. Peggy has a hard time with casting for a commercial."""
+
+    [[seasons.episodes]]
+    title = "Lost Horizon"
+    aired = "2015-05-02"
+    description = """Don receives a reward for his work. Joan butts heads with her co-worker on an account. Faced with a big decision, Roger dodges."""
+
+    [[seasons.episodes]]
+    title = "The Milk and Honey Route"
+    aired = "2015-05-09"
+    description = """Don has trouble sleeping. Pete is blindsided by a difficult friend. Facing a new challenge, Henry arranges a family reunion."""
+
+    [[seasons.episodes]]
+    title = "Person to Person"
+    aired = "2015-05-16"
+    description = """The Series Finale. The stories of Don Draper, his family, and his co-workers at Sterling Cooper & Partners come to an end."""

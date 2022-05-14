@@ -1,0 +1,59 @@
+title = "Superstore"
+
+[[seasons]]
+title = "Season 1"
+
+    [[seasons.episodes]]
+    title = "Pilot"
+    aired = "2015-11-30"
+    description = """During his first day on the job at a big-box store, Jonah makes a bad first impression on floor manager Amy, and draws the romantic interest of assistant manager Dina."""
+
+    [[seasons.episodes]]
+    title = "Magazine Profile"
+    aired = "2015-11-30"
+    description = """A reporter is supposed to be writing a piece on the store, but focuses more on Jonah; Garrett tries to avoid being photographed; Cheyenne asks her boyfriend to write a corporate jingle."""
+
+    [[seasons.episodes]]
+    title = "Shots and Salsa"
+    aired = "2015-12-28"
+    description = """Amy fights racial stereotypes, while Jonah learns why you should never lend a helping hand."""
+
+    [[seasons.episodes]]
+    title = "Mannequin"
+    aired = "2016-01-04"
+    description = """Everyone becomes obsessed with a mannequin that looks exactly like Jonah; Cheyenne considers putting her baby up for adoption; Glenn and Dina get into an argument about parenting."""
+
+    [[seasons.episodes]]
+    title = "Shoplifter"
+    aired = "2016-01-11"
+    description = """Without a babysitter for the day, Amy defies store policy and takes her daughter to work; Cheyenne and Mateo get into a fight over a couch; Dina investigates a shoplifter."""
+
+    [[seasons.episodes]]
+    title = "Secret Shopper"
+    aired = "2016-01-18"
+    description = """Amy feels competitive when Glenn publicly congratulates Jonah on his superb test results; Cloud 9 employees are on their best behavior in anticipation of a secret shopper."""
+
+    [[seasons.episodes]]
+    title = "Color Wars"
+    aired = "2016-01-25"
+    description = """Glenn announces that all employees will receive a $100 bonus if the store reaches a sales goal by the end of the day; Ben has an encounter with Amy's husband; Dina and Glenn plan a celebration."""
+
+    [[seasons.episodes]]
+    title = "Wedding Day Sale"
+    aired = "2016-02-01"
+    description = """When Cheyenne and Bo intend to make lavish purchases during the store's annual wedding-themed sale, Amy tries to talk to them about the cost of having a child; Glenn tries to show his support for gay marriage."""
+
+    [[seasons.episodes]]
+    title = "All-Nighter"
+    aired = "2016-02-08"
+    description = """While working late, the Cloud 9 staff find themselves locked inside the store for the entire night."""
+
+    [[seasons.episodes]]
+    title = "Demotion"
+    aired = "2016-02-15"
+    description = """Dina asks for a demotion so that she is free to date Jonah."""
+
+    [[seasons.episodes]]
+    title = "Labor"
+    aired = "2016-02-22"
+    description = """Cheyenne is having her baby in the store but won't stop working because Cloud9 doesn't offer paid maternity leave. To help her, Jonah proposes a walkout."""

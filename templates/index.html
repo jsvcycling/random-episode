@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Random Episode Selector</title>
+
+        <style>
+            * {
+                margin: 0 auto;
+            }
+
+            body {
+                padding-top: 2rem;
+                font-family: sans-serif;
+            }
+
+            #container {
+                width: 75%;
+            }
+
+            form, #episode {
+                padding-top: 2rem;
+            }
+
+            select {
+                padding-right: 1rem;
+            }
+
+            select, input {
+                font-size: 1.25rem;
+            }
+
+            #episode p {
+                padding-top: 1rem;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <h1>Random Episode Selector</h1>
+            <form method="GET">
+                <select id="show" name="show">
+                    <option value="">Select...</option>
+                    {% for show in shows -%}
+                    {% if current_show == show.0 -%}
+                    <option value="{{ show.0 }}" selected>{{ show.1 }}</option>
+                    {% else -%}
+                    <option value="{{ show.0 }}">{{ show.1 }}</option>
+                    {% endif -%}
+                    {%- endfor %}
+                </select>
+                <input type="submit" value="Randomize" />
+            </form>
+
+            {% if episode -%}
+            <div id="episode">
+                <h2>{{ episode.season_name }} - {{ episode.episode_name }} (S{{episode.season_idx}}:E{{episode.episode_idx}})</h2>
+                <p>(<em>{{ episode.episode_aired | date(format="%e %B, %Y") | trim }}</em>) {{ episode.episode_description }}</p>
+            </div>
+            {%- endif %}
+        </div>
+    </body>
+</html>
