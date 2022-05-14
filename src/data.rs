@@ -5,12 +5,14 @@ use serde::{Deserialize, Serialize};
 
 macro_rules! add_show {
     ($map:expr, $name:tt) => {
-        $map.insert($name.into(), toml::from_str(include_str!(concat!("../data/", $name, ".toml"))).unwrap());
+        $map.insert(
+            $name.into(),
+            toml::from_str(include_str!(concat!("../data/", $name, ".toml"))).unwrap(),
+        );
     };
 }
 
 lazy_static! {
-    // static ref DATA: HashMap<String, Show> = load_data("data");
     static ref DATA: HashMap<String, Show> = {
         let mut data = HashMap::new();
 
@@ -45,7 +47,7 @@ pub struct Episode {
     pub description: String,
 }
 
-#[derive(Debug, Serialize)]
+#[derive(Serialize)]
 pub struct EpisodeResponse {
     pub season_idx: usize,
     pub season_name: String,
@@ -56,7 +58,8 @@ pub struct EpisodeResponse {
 }
 
 pub fn get_shows() -> Vec<(String, String)> {
-    let mut shows = DATA.iter()
+    let mut shows = DATA
+        .iter()
         .map(|(k, v)| (k.clone(), v.title.clone()))
         .collect::<Vec<(String, String)>>();
 
