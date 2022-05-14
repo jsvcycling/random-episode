@@ -1,0 +1,9 @@
+title = "Community"
+
+[[seasons]]
+title = "Season 1"
+
+    [[seasons.episodes]]
+    title = "Pilot"
+    aired = "2009-09-17"
+    description = """When the legitimacy of his degree is challenge, lawyer Jeff Winger must return to school, where he meets a clan of misfit community college students."""

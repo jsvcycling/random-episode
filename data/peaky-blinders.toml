@@ -1,0 +1,166 @@
+title = "Peaky Blinders"
+
+[[seasons]]
+title = "Season 1"
+
+    [[seasons.episodes]]
+    title = "Episode 1"
+    aired = "2013-09-12"
+    description = """Ambitious gang leader Thomas Shelby recognizes and opportunity to move up in the wordl thanks to a missing crate of guns."""
+
+    [[seasons.episodes]]
+    title = "Episode 2"
+    aired = "2013-09-19"
+    description = """Thomas provokes a local kingpin by fixing a horse race and starts a war with a gypsy family; Inspector Campbell carries out a vicious raid."""
+
+    [[seasons.episodes]]
+    title = "Episode 3"
+    aired = "2013-09-26"
+    description = """Thomas schemes to get closer to Billy Kimber at the Cheltenham races, and considers an offer from IRA sympathizers to buy his stolen guns."""
+
+    [[seasons.episodes]]
+    title = "Episode 4"
+    aired = "2013-10-03"
+    description = """As his war with the Lee family escalates, Thomas harbors suspicions about his brother's fiancée; Campbell pressures the gang to deliver the guns."""
+
+    [[seasons.episodes]]
+    title = "Episode 5"
+    aired = "2013-10-10"
+    description = """Thomas deals with an IRA chief bent on avenging his cousin's death; Grace must decide whether her loyalities lie with Campbell or Thomas."""
+
+    [[seasons.episodes]]
+    title = "Episode 6"
+    aired = "2013-10-17"
+    description = """Thomas prepares to oust Billy Kimber from power, but family secrets that come to light and the obsessed Campbell may prove his undoing."""
+
+[[seasons]]
+title = "Season 2"
+
+    [[seasons.episodes]]
+    title = "Episode 1"
+    aired = "2014-10-02"
+    description = """When Birmingham crime bross Thomas Shelby's beloved Garrison pub is bombed, he finds himself blackmailed into murdering an Irish dissident."""
+
+    [[seasons.episodes]]
+    title = "Episode 2"
+    aired = "2014-10-09"
+    description = """After murdering an Irish dissident, Tommy has no choice but to be a pawn to Inspector Campbell's treacherous political game."""
+
+    [[seasons.episodes]]
+    title = "Episode 3"
+    aired = "2014-10-16"
+    description = """After joining London crime boss Alfie Solomons in a business venture, Tommy worries that Alfie's newly revealed volatility could pose a problem."""
+
+    [[seasons.episodes]]
+    title = "Episode 4"
+    aired = "2014-10-23"
+    description = """The Peaky Blinders take over London's Eden Club; Sabini convinces his old adversary Alfie Solomons to join forces and eradicate the gang."""
+
+    [[seasons.episodes]]
+    title = "Episode 5"
+    aired = "2014-10-30"
+    description = """The Peaky Blinders are under attack. Tommy's power base in London is obliterated, and both Arthur and Michael are arrested and imprisoned."""
+
+    [[seasons.episodes]]
+    title = "Episode 6"
+    aired = "2014-11-06"
+    description = """Tommy plans to execute the mission given to him by Campberll: the assassination of a high-ranking member of the military establishment."""
+
+[[seasons]]
+title = "Season 3"
+
+    [[seasons.episodes]]
+    title = "Episode 1"
+    aired = "2016-05-05"
+    description = """On Tommy's wedding day, a new business partner arranges a secret transaction. Arthur has found a godly woman, and Polly meets an attractive man."""
+
+    [[seasons.episodes]]
+    title = "Episode 2"
+    aired = "2016-05-12"
+    description = """A careless thread sparks a war. Tommy gets a rare form of payment, but his bosses flex their power to keep him in line. Polly commissions a portrait."""
+
+    [[seasons.episodes]]
+    title = "Episode 3"
+    aired = "2016-05-19"
+    description = """Tommy travels to Wales seeking absolution, and uncovers and traitor in the Economic League. Michael develops a taste for guns. Arthur gets good news."""
+
+    [[seasons.episodes]]
+    title = "Episode 4"
+    aired = "2016-05-26"
+    description = """Polly goes to confession, igniting a chain of events that reveals a trap being laid at the Shelbys' expense. Tommy plans an exist from dirty business."""
+
+    [[seasons.episodes]]
+    title = "Episode 5"
+    aired = "2016-06-02"
+    description = """Realizing he's being outmaneuvered by the Russians, Tommy seeks help from a former business partner. Polly's new friendship becomes something more."""
+
+    [[seasons.episodes]]
+    title = "Episode 6"
+    aired = "2016-06-09"
+    description = """As Tommy prepares to commit the most audacious crime of his career, an unexpected blow forces him to face his worst fears in a race against time."""
+
+[[seasons]]
+title = "Season 4"
+
+    [[seasons.episodes]]
+    title = "The Noose"
+    aired = "2017-11-15"
+    description = """At Christmastime 1925, members of the factured Shelby family get word that the New York Mafia is coming to avenge murders they committed a year ago."""
+
+    [[seasons.episodes]]
+    title = "Heathens"
+    aired = "2017-11-22"
+    description = """Reeling from their losses, the Shelbys gather in Small Heath, where Tommy calls for a family truce in order to launch an offensive against the Mafia."""
+
+    [[seasons.episodes]]
+    title = "Blackbird"
+    aired = "2017-11-29"
+    description = """Linda tries to distract Arthur, who later gets caught in an ambush. Tommy is reminded of who he was before the war. Polly meets a man from her past."""
+
+    [[seasons.episodes]]
+    title = "Dangerous"
+    aired = "2017-12-06"
+    description = """The Mafia tries to lure on eof the Shelbys into a trap. Tommy is visited by an old flame. Lizzie receives unexpected news."""
+
+    [[seasons.episodes]]
+    title = "The Duel"
+    aired = "2017-12-13"
+    description = """Despite being outnumbered, Tommy starts a shootout with the Mafia. Luca Changretta approaches Alfie Solomons. The British military seeks out Ada."""
+
+    [[seasons.episodes]]
+    title = "The Company"
+    aired = "2017-12-20"
+    description = """During the boxing match, Arthur follows a hunch. Tommy is inspired by some word of wisdom from Alfie Solomons and gets valuable intel from Jessie."""
+
+[[seasons]]
+title = "Season 5"
+
+    [[seasons.episodes]]
+    title = "Black Tuesday"
+    aired = "2019-08-25"
+    description = """Grave news from the U.S. sends the Shelbys to an urgent board meeting. Ada hides a secret. Tommy is revisited by his past, in the form of a journalist."""
+
+    [[seasons.episodes]]
+    title = "Black Cats"
+    aired = "2019-08-26"
+    description = """The anonymous messages take a terrifying turn. Michael's loyalties are called into question. Tommy receives an offer from Oswald Mosley."""
+
+    [[seasons.episodes]]
+    title = "Strategy"
+    aired = "2019-09-01"
+    description = """Aberama heads to Glasgow to get revenge. Mosley blackmails Tommy, who decides to turn the tables on him. Frantic to find Linda, Arthur loses control."""
+
+    [[seasons.episodes]]
+    title = "The Loop"
+    aired = "2019-09-08"
+    description = """Tommy calls a truce and meets with Jimmy McCavern. A lucrative business opportunity presents itself. Aberama is asked to put love before revenge."""
+
+    [[seasons.episodes]]
+    title = "The Shock"
+    aired = "2019-09-15"
+    description = """At the party, Mosley makes a speech. Ben Younger faces unexpected consequences for reporting Tommy's intel on fascists. Tommy visits an asylum patient."""
+
+    [[seasons.episodes]]
+    title = "Mr Jones"
+    aired = "2019-09-22"
+    description = """At a family meeting, Michael makes a bold proposal. The mole is identified. Tommy asks an old rival for help with his plan to take down Mosley."""

@@ -1,0 +1,54 @@
+title = "Halt and Catch Fire"
+
+[[seasons]]
+title = "Season 1"
+
+    [[seasons.episodes]]
+    title = "I/O"
+    aired = "2014-06-01"
+    description = """The 1980s computing boom through the eyes of a visionary, an engineer and a prodigy as they chart the changing culture in Texas' Silicon Prairie."""
+
+    [[seasons.episodes]]
+    title = "FUD"
+    aired = "2014-06-08"
+    description = """After surviving a visit from IBM, Joe's team must overcome internal differences and begin the technical feat of building the new machine."""
+
+    [[seasons.episodes]]
+    title = "High Plains Hardware"
+    aired = "2014-06-15"
+    description = """Gordon and Cameron struggle to make Joe's vision a reality; Joe and Bosworth seek funds."""
+
+    [[seasons.episodes]]
+    title = "Close to the Metal"
+    aired = "2014-06-22"
+    description = """As Cameron nears completion of the BIOS, a crisis threatens the project's future and requires all hands on deck to save the machine."""
+
+    [[seasons.episodes]]
+    title = "Adventure"
+    aired = "2014-06-29"
+    description = """Cameron bristles under a new manager as Joe and Gordon attempt to procure a key piece of new technology for the computer."""
+
+    [[seasons.episodes]]
+    title = "Landfall"
+    aired = "2014-07-06"
+    description = """After having a breakthrough, Cameron is at odds with Gordon; Joe must make a difficult decision."""
+
+    [[seasons.episodes]]
+    title = "Giant"
+    aired = "2014-07-13"
+    description = """When a person from Joe's past visits, his connection with Cameron is threatened."""
+
+    [[seasons.episodes]]
+    title = "The 214s"
+    aired = "2014-07-20"
+    description = """Scandal rocks Cardiff Electric as the team finalizes preparations for COMDEX. Bosworth makes a sacrifice for the good of the PC program."""
+
+    [[seasons.episodes]]
+    title = "Up Helly Ah"
+    aired = "2014-07-27"
+    description = """Unforeseen adversaries and new complications threaten to derail all that the Cardiff Electric team has worked for at COMDEX."""
+
+    [[seasons.episodes]]
+    title = "1984"
+    aired = "2014-08-03"
+    description = """Gordon and Joe prepare to transport the Giant; a suspicious defect causes a rift in the partnership."""
