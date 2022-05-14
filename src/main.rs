@@ -15,12 +15,10 @@ use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 mod data;
 
 lazy_static! {
-    static ref TEMPLATES: Tera = match Tera::new("templates/**/*") {
-        Ok(t) => t,
-        Err(e) => {
-            println!("Error parsing templates: {}", e);
-            std::process::exit(1);
-        }
+    static ref TEMPLATES: Tera = {
+        let mut tera = Tera::default();
+        tera.add_raw_template("index.html", include_str!("../templates/index.html")).unwrap();
+        tera
     };
 }
 
