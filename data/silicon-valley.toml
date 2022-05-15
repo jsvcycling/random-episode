@@ -6,39 +6,279 @@ title = "Season 1"
     [[seasons.episodes]]
     title = "Minimum Viable Product"
     aired = "2014-04-06"
-    description = """Richard is a computer programmer. He has to choose between a $10 million deal with Gavin Belson and a $200,000 deal with Peter Gregory, in exchange for his cooperation to make the idea of a super compressing algorithm change the world."""
+    description = """Series Premiere. Computer programmer Richard finds himself courted by two major Silicon Valley investors."""
 
     [[seasons.episodes]]
     title = "The Cap Table"
     aired = "2014-04-13"
-    description = """Richard hires Jared to design a business plan. Big Head is asked to work for Gavin Belson, where he discovers that Hooli has stolen the Pied Piper algorithm and calls it Nucleus. Meanwhile Richard struggles to get his money from Gregory."""
+    description = """Peter Gregory demands a formal business plan for Pied Piper; Richard hires Jared, a former Hooli employee."""
 
     [[seasons.episodes]]
     title = "Articles of Incorporation"
     aired = "2014-04-20"
-    description = """The guys find themselves in trouble with their company name when they find out it's already taken. So whilst Richard tries to find a solution, Erlich searches for a new name in another dimension of his consciousness."""
+    description = """Richard negotiates to keep his company name; Peter proves elusive when asked for money by one of his companies."""
 
     [[seasons.episodes]]
     title = "Fiduciary Duties"
     aired = "2014-04-27"
-    description = """Richard drunkenly promises to make Erlich a board member, which he regrets the next morning. Big Head finds others at Hooli, who like him, have made careers out of doing nothing. Richard struggles to put Pied Piper's vision into words."""
+    description = """Richard regrets making Erlich a board member; a surprising link between Gavin and Peter is revealed."""
 
     [[seasons.episodes]]
     title = "Signaling Risk"
     aired = "2014-05-04"
-    description = """Now that Pied Piper is the official company name, Erlich wants a logotype to go with it so he hires a very unexpected artist in for the job. Meanwhile Richard gets a tighter deadline for the project after a simple mistake."""
+    description = """Erlich hires a graffiti artist to do the company logo; Jared tries to increase efficiency; Richard gets a new deadline."""
 
     [[seasons.episodes]]
     title = "Third Party Insourcing"
     aired = "2014-05-11"
-    description = """Richard comes across a problem in the code writing and hires Kevin, a young kid, to write the code for him."""
+    description = """Richard butts heads with a freelancer; Gilfoyle's girlfriend comes to visit; Jared is taken for a ride."""
 
     [[seasons.episodes]]
     title = "Proof of Concept"
     aired = "2014-05-18"
-    description = """Richard has trouble getting Pied Piper ready in time for the TechCrunch Disrupt, while Erlich realizes he slept with the wife of one of the judges of the contest."""
+    description = """At TechCrunch Disrupt, Richard is distracted by a girl he dated briefly; Erlich's connection with a judge threatens Pied Piper."""
 
     [[seasons.episodes]]
     title = "Optimal Tip-To-Tip Efficiency"
     aired = "2014-06-01"
-    description = """Pied Piper makes it to the next stage of Disrupt but runs into trouble with Hooli's presentation. The guys break out into a ridiculous argument and Richard tries to pull Pied Piper together before the big presentation."""
+    description = """Season One Finale. Pied Piper competes against Gavin Belson at TechCrunch Disrupt."""
+
+[[seasons]]
+title = "Season 2"
+
+    [[seasons.episodes]]
+    title = "Sand Hill Shuffle"
+    aired = "2015-04-12"
+    description = """Season 2 Premiere. Pied Piper becomes the hit of Silicon Valley, leaving Richard to make a major decision."""
+
+    [[seasons.episodes]]
+    title = "Runaway Devaluation"
+    aired = "2015-04-19"
+    description = """Pied Piper faces financial and legal troubles; Dinesh tries to squash his cousin's Kickstarter campaign."""
+
+    [[seasons.episodes]]
+    title = "Bad Money"
+    aired = "2015-04-26"
+    description = """Richard is courted by a new backer; Monica deals with a high-strung Laurie; Gavin finds a new strategy in dealing with Pied Piper."""
+
+    [[seasons.episodes]]
+    title = "The Lady"
+    aired = "2015-05-03"
+    description = """Richard and Erlich clash over a prospective hire; a new female employee makes Dinesh and Gilfoyle suspicious; Big Head gets promoted."""
+
+    [[seasons.episodes]]
+    title = "Server Space"
+    aired = "2015-05-10"
+    description = """Richard struggles to find Pied Piper office space, drawing the ire of a nosy neighbor; Big Head's management style is questioned."""
+
+    [[seasons.episodes]]
+    title = "Homicide"
+    aired = "2015-05-17"
+    description = """Pied Piper tries to one-up Hooli by livestreaming a big stunt; Gilfoyle and Dinesh brainstorm; Jared pushes Carla and Monica together."""
+
+    [[seasons.episodes]]
+    title = "Adult Content"
+    aired = "2015-05-24"
+    description = """Richard finds himself with few options and pursues an unconventional client; Gavin looks for success in failure; Dinesh woos a woman online."""
+
+    [[seasons.episodes]]
+    title = "White Hat/Black Hat"
+    aired = "2015-05-31"
+    description = """Richard grows paranoid when Pied Piper competes for a client; Erlich and Jian-Yang work on a pitch."""
+
+    [[seasons.episodes]]
+    title = "Binding Arbitration"
+    aired = "2015-06-07"
+    description = """Pied Piper and Hooli battle it out in binding arbitration; Jared, Dinesh and Gilfoyle debate philosophy and their livestream."""
+
+    [[seasons.episodes]]
+    title = "Two Days of the Condor"
+    aired = "2015-06-14"
+    description = """Season Two Finale. An unexpected drama draws a spike in traffic to Pied Piper, as Richard scrambles to save the company."""
+
+[[seasons]]
+title = "Season 3"
+
+    [[seasons.episodes]]
+    title = "Founder Friendly"
+    aired = "2016-04-24"
+    description = """Season Three Premiere. Richard decides whether to leave Pied Piper for good, while the rest of the team weighs their options."""
+
+    [[seasons.episodes]]
+    title = "Two in a Box"
+    aired = "2016-05-01"
+    description = """The new and improved Pied Piper impresses Dinesh and Gilfoyle, but worries Richard; Jared and Erlich each face housing issues."""
+
+    [[seasons.episodes]]
+    title = "Meinertzhagen's Haversack"
+    aired = "2016-05-08"
+    description = """Richard searches for a way around Jack; Gilfoyle opens himself up to recruiters; Dinesh draws unwanted attention from a recent purchase."""
+
+    [[seasons.episodes]]
+    title = "Malent Data Systems Solutions"
+    aired = "2016-05-15"
+    description = """The Pied Piper guys struggle to phone it in; Erlich faces competition; Monica takes a stand; Gavin makes a decision about Nucleus."""
+
+    [[seasons.episodes]]
+    title = "The Empty Chair"
+    aired = "2016-05-22"
+    description = """Richard lets his ego get in the way at an interview; Dinesh, Gilfoyle & Jared misplace some hardware; Erlich pitches his plans to Big Head."""
+
+    [[seasons.episodes]]
+    title = "Bachmanity Insanity"
+    aired = "2016-05-29"
+    description = """Richard's new relationship is threatened by neuroses; Big Head and Erlich's launch party has snags; Dinesh falls for a foreign coworker."""
+
+    [[seasons.episodes]]
+    title = "To Build a Better Beta"
+    aired = "2016-06-05"
+    description = """The beta version of Pied Piper receives an unexpected response; Monica worries about how to deliver criticism; Erlich faces financial woes."""
+
+    [[seasons.episodes]]
+    title = "Bachman's Earnings Over-Ride"
+    aired = "2016-06-12"
+    description = """Erlich struggles to come clean to Richard; Jared's latest fashion makes a splash; Gavin faces major life changes."""
+
+    [[seasons.episodes]]
+    title = "Daily Active Users"
+    aired = "2016-06-19"
+    description = """Richard looks to bridge the gap between Pied Piper and its users, while Gavin works to reclaim his former glory."""
+
+    [[seasons.episodes]]
+    title = "The Uptick"
+    aired = "2016-06-26"
+    description = """Season Three Finale. Richard and the guys of Pied Piper consider their company's future; Gavin's comeback is threatened."""
+
+[[seasons]]
+title = "Season 4"
+
+    [[seasons.episodes]]
+    title = "Success Failure"
+    aired = "2017-04-23"
+    description = """Season Four Premiere. Richard struggles to embrace Pied Piper's new video-chat app; Erlich faces resistance."""
+
+    [[seasons.episodes]]
+    title = "Terms of Service"
+    aired = "2017-04-30"
+    description = """Dinesh and Richard butt heads over PiperChat; Erlich's interest is piqued by Jian-Yang's new app; Gavin grows paranoid."""
+
+    [[seasons.episodes]]
+    title = "Intellectual Property"
+    aired = "2017-05-07"
+    description = """Richard works tirelessly on his next big idea; Monica sets a trap; Dinesh goes on a date; Big Head heads back to school."""
+
+    [[seasons.episodes]]
+    title = "Teambuilding Exercise"
+    aired = "2017-05-14"
+    description = """Richard's new alliance worries Jared; Gilfoyle considers whether to put his pride aside; Erlich confronts Jian-Yang about his app."""
+
+    [[seasons.episodes]]
+    title = "The Blood Boy"
+    aired = "2017-05-21"
+    description = """Richard deals with an unexpected interloper; Dinesh searches for a way out; Monica considers her options."""
+
+    [[seasons.episodes]]
+    title = "Customer Service"
+    aired = "2017-05-28"
+    description = """Richard looks outside the tech bubble for support; Erlich searches for a new endeavor."""
+
+    [[seasons.episodes]]
+    title = "The Patent Troll"
+    aired = "2017-06-04"
+    description = """Richard takes on a patent troll; Gilfoyle battles a smart fridge; Jared embraces multiple identities; Erlich tries to hang with a new crowd."""
+
+    [[seasons.episodes]]
+    title = "The Keenan Vortex"
+    aired = "2017-06-11"
+    description = """Richard ponders a deal with the tech world's latest 'it' boy; Jack faces setbacks."""
+
+    [[seasons.episodes]]
+    title = "Hooli-Con"
+    aired = "2017-06-18"
+    description = """The Pied Piper guys try to pull off a stealth plan at Hooli-Con; Erlich takes a trip to get his mojo back."""
+
+    [[seasons.episodes]]
+    title = "Server Error"
+    aired = "2017-06-25"
+    description = """Season Four Finale. Richard finds himself in a web of lies; Jared plans his exit; Jack bets big; Gavin plots a comeback."""
+
+[[seasons]]
+title = "Season 5"
+
+    [[seasons.episodes]]
+    title = "Grow Fast or Die Slow"
+    aired = "2018-03-25"
+    description = """Season Five Premiere. Richard faces new challenges as a leader as Pied Piper levels up; Gavin worries about being antiquated."""
+
+    [[seasons.episodes]]
+    title = "Reorientation"
+    aired = "2018-04-01"
+    description = """Richard faces challenges while trying to unite new employees; Jian-Yang goes to court; Gavin is questioned over his signature."""
+
+    [[seasons.episodes]]
+    title = "Chief Operating Officer"
+    aired = "2018-04-08"
+    description = """Richard's infatuation with another company's COO causes friction with members of Pied Piper; Dinesh gets a new roommate."""
+
+    [[seasons.episodes]]
+    title = "Tech Evangelist"
+    aired = "2018-04-15"
+    description = """Richard attempts to woo a new client; Gavin's team ponders a cryptic message; Jared gains intel from Big Head."""
+
+    [[seasons.episodes]]
+    title = "Facial Recognition"
+    aired = "2018-04-22"
+    description = """Richard's confidence takes a hit; Gilfoyle worries about an artificial-intelligence partner; Gavin questions his future beyond Hooli."""
+
+    [[seasons.episodes]]
+    title = "Artificial Emotional Intelligence"
+    aired = "2018-04-29"
+    description = """Richard decides to help out Laurie; Gavin struggles to bargain with a new partner; Dinesh relishes a rare win."""
+
+    [[seasons.episodes]]
+    title = "Initial Coin Offering"
+    aired = "2018-05-06"
+    description = """Richard gets unsettling news; Gilfoyle suggests a risky proposition; Dinesh tries to compete with a coworker."""
+
+    [[seasons.episodes]]
+    title = "Fifty-One Percent"
+    aired = "2018-05-13"
+    description = """Season Five Finale. When PiperNet's launch is met with unexpected threats, Richard makes a surprising move."""
+
+[[seasons]]
+title = "Season 6"
+
+    [[seasons.episodes]]
+    title = "Artificial Lack of Intelligence"
+    aired = "2019-10-27"
+    description = """Season Six Premiere. Richard discovers his promise that Pied Piper won't collect user data is under threat."""
+
+    [[seasons.episodes]]
+    title = "Blood Money"
+    aired = "2019-11-03"
+    description = """Richard meets a potential investor; Gilfoyle butts heads with HR; Gavin explores a leaner Hooli's future."""
+
+    [[seasons.episodes]]
+    title = "Hooli Smokes!"
+    aired = "2019-11-10"
+    description = """The Pied Piper team races to close a major deal; Dinesh considers being a better person."""
+
+    [[seasons.episodes]]
+    title = "Maximizing Alphaness"
+    aired = "2019-11-17"
+    description = """Richard's authority is threatened by a former Hooli manager; Monica tries to prove her support of other women."""
+
+    [[seasons.episodes]]
+    title = "Tethics"
+    aired = "2019-11-24"
+    description = """Richard fumes at Gavin's new ethical stance; Dinesh's trip turns into a nightmare."""
+
+    [[seasons.episodes]]
+    title = "RussFest"
+    aired = "2019-12-01"
+    description = """A major event puts PiperNet's capabilities to the test; Monica confronts Jian-yang."""
+
+    [[seasons.episodes]]
+    title = "Exit Event"
+    aired = "2019-12-08"
+    description = """Series finale. Richard and the Pied Piper team look to pull off a spectacular feat on the day of a big launch."""

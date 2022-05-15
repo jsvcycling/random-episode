@@ -52,3 +52,162 @@ title = "Season 1"
     title = "1984"
     aired = "2014-08-03"
     description = """Gordon and Joe prepare to transport the Giant; a suspicious defect causes a rift in the partnership."""
+
+[[seasons]]
+title = "Season 2"
+
+    [[seasons.episodes]]
+    title = "SETI"
+    aired = "2015-05-31"
+    description = """Cameron and Donna's gaming company, Mutiny, reaches a critical stage; Joe and Gordon are reunited."""
+
+    [[seasons.episodes]]
+    title = "New Coke"
+    aired = "2015-06-07"
+    description = """Joe begins a new job after meeting Sara's father; Gordon grapples with his newfound freedom."""
+
+    [[seasons.episodes]]
+    title = "The Way In"
+    aired = "2015-06-14"
+    description = """John tries to reconnect with his former life; Gordon and Donna receive a surprising invitation."""
+
+    [[seasons.episodes]]
+    title = "Play With Friends"
+    aired = "2015-06-21"
+    description = """Joe and Gordon reunite to bring about Joe's vision; tensions run high between Cameron and Donna."""
+
+    [[seasons.episodes]]
+    title = "Extract and Defend"
+    aired = "2015-06-28"
+    description = """Cameron and Joe cross paths, sending Cameron into a tailspin; Gordon absorbs difficult news."""
+
+    [[seasons.episodes]]
+    title = "10Broad36"
+    aired = "2015-07-05"
+    description = """Joe approaches a new opportunity."""
+
+    [[seasons.episodes]]
+    title = "Working for the Clampdown"
+    aired = "2015-07-12"
+    description = """Gordon and Donna keep secrets from each other; Gordon launches a new venture; Cameron's principles are tested."""
+
+    [[seasons.episodes]]
+    title = "Limbo"
+    aired = "2015-07-19"
+    description = """Mutiny hosts its users."""
+
+    [[seasons.episodes]]
+    title = "Kali"
+    aired = "2015-07-26"
+    description = """Reeling after a rival's launch, Mutiny takes measures to ensure survival; Gordon pays a price to quell his paranoia."""
+
+    [[seasons.episodes]]
+    title = "Heaven Is a Place"
+    aired = "2015-08-2"
+    description = """When the Clark family descends into crisis, Gordon helps Joe; Cameron envisions a new future for Mutiny."""
+
+[[seasons]]
+title = "Season 3"
+
+    [[seasons.episodes]]
+    title = "Valley of the Heart's Delight"
+    aired = "2016-08-21"
+    description = """Donna and Cameron explore their options to expand beyond chat. Gordon settles in at Mutiny. Joe launches his latest product."""
+
+    [[seasons.episodes]]
+    title = "One Way or Another"
+    aired = "2016-08-23"
+    description = """While Cameron and Donna struggle to find venture capital, Joe hires a key coder, leaving the rest of the team at a loss."""
+
+    [[seasons.episodes]]
+    title = "Flipping the Switch"
+    aired = "2016-08-30"
+    description = """Tensions rise at the office as Gordon and Donna's personal life spills into work. Meanwhile, Joe meets with the MacMillan board."""
+
+    [[seasons.episodes]]
+    title = "Rules of Honorable Play"
+    aired = "2016-09-06"
+    description = """A game of laser tag teaches Gordon the importance of teamwork; Donna and Cameron disagree on their acquisition."""
+
+    [[seasons.episodes]]
+    title = "Yerba Buena"
+    aired = "2016-09-13"
+    description = """Donna and Gordon decide to treat themselves to a vacation at home instead of camping. Bos and Cameron return to Texas. Ryan and Joe have a revelation."""
+
+    [[seasons.episodes]]
+    title = "And She Was"
+    aired = "2016-09-20"
+    description = """Tensions rise over an offer to buy Mutiny. Donna has a weekend alone, while Gordon and Cam bond over video games. Joe has a standoff with the board."""
+
+    [[seasons.episodes]]
+    title = "The Threshold"
+    aired = "2016-09-27"
+    description = """Joe and Ryan deal with the consequences of Joe's decision. Cameron and Donna fight over the future, while Gordon has a crisis of conscience."""
+
+    [[seasons.episodes]]
+    title = "You Are Not Safe"
+    aired = "2016-10-04"
+    description = """Donna, Bos and Diane go on the road to build support for Mutiny, while everyone else anxiously awaits the big day. Joe asks Cam for a favor."""
+
+    [[seasons.episodes]]
+    title = "NIM"
+    aired = "2016-10-11"
+    description = """Donna envisions a new future for the Internet and attempts to bring everyone together at Comdex. Gordon takes on a strong-willed Joanie."""
+
+    [[seasons.episodes]]
+    title = "NeXT"
+    aired = "2016-10-11"
+    description = """Donna's vision creates a spirited discussion over the next big thing, and how to achieve it. The end result may not make everyone happy."""
+
+[[seasons]]
+title = "Season 4"
+
+    [[seasons.episodes]]
+    title = "So It Goes"
+    aired = "2017-08-19"
+    description = """Gordon enjoys success while Joe works to keep their web project afloat. Cameron extends a business trip. Donna launches a new venture."""
+
+    [[seasons.episodes]]
+    title = "Signal to Noise"
+    aired = "2017-08-19"
+    description = """Joe and Cameron talk on the phone. Donna promotes her assistant. Gordon's business buckles under pressure from a larger competitor."""
+
+    [[seasons.episodes]]
+    title = "Miscellaneous"
+    aired = "2017-08-26"
+    description = """Cameron promotes her game at an industry conference. Donna squares off against old rivals. Gordon struggles to support Joe's newest idea."""
+
+    [[seasons.episodes]]
+    title = "Tonya and Nancy"
+    aired = "2017-09-09"
+    description = """Cameron buys a plot of land to re-center; Joe and Gordon hire a team of websurfers to map the web; Donna focuses her team on the mission ahead."""
+
+    [[seasons.episodes]]
+    title = "Nowhere Man"
+    aired = "2017-09-16"
+    description = """Donna struggles with suspicion; Bosworth hits a breaking point; Joe confesses to Gordon while Cameron faces past mistakes."""
+
+    [[seasons.episodes]]
+    title = "A Connection is Made"
+    aired = "2017-09-23"
+    description = """Donna makes a play for a heavy-hitter; Gordon confronts his daughter about an issue at school; Cameron finds a new fan; Joe sees a new side of Haley."""
+
+    [[seasons.episodes]]
+    title = "Who Needs a Guy"
+    aired = "2017-09-30"
+    description = """Joe and Gordon discuss Comet's future; Donna takes a vacation; a new collaborator challenges Cameron; Bos and Diane make a life-altering choice."""
+
+    [[seasons.episodes]]
+    title = "Goodwill"
+    aired = "2017-10-07"
+    description = """Cameron helps Donna pack up; Bos makes his famous chili; Joe helps Haley recover a memorable keepsake; Gordon and Donna fight."""
+
+    [[seasons.episodes]]
+    title = "Search"
+    aired = "2017-10-14"
+    description = """Donna celebrates a milestone with her closest allies; Cameron contemplates saying goodbye; Joe confronts an uncertain future."""
+
+    [[seasons.episodes]]
+    title = "Ten of Swords"
+    aired = "2017-10-14"
+    description = """Donna celebrates a milestone with her closest allies; Cameron contemplates saying goodbye; Joe confronts an uncertain future."""
