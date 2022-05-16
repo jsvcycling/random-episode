@@ -7,3 +7,558 @@ title = "Season 1"
     title = "Pilot"
     aired = "2009-09-17"
     description = """When the legitimacy of his degree is challenge, lawyer Jeff Winger must return to school, where he meets a clan of misfit community college students."""
+
+    [[seasons.episodes]]
+    title = "Spanish 101"
+    aired = "2009-09-24"
+    description = """While Jeff looks to use a Spanish class assignment to get close to Britta, Pierce has something altogether different in mind."""
+
+    [[seasons.episodes]]
+    title = "Introduction to Film"
+    aired = "2009-10-01"
+    description = """Jeff struggles to get a good grade, and Britta's offer to bankroll his film class exposes a rift between Abed and his angry father."""
+
+    [[seasons.episodes]]
+    title = "Social Psychology"
+    aired = "2009-10-08"
+    description = """As Annie recruits Abed and Troy for a psychology class experiment, Jeff and Shirley bond over their mutual fondness for gossip."""
+
+    [[seasons.episodes]]
+    title = "Advanced Criminal Law"
+    aired = "2009-10-15"
+    description = """As Pierce volunteers to compose a new school song, a cheating episode in Spanish class leaves Jeff defending Britta before a disciplinary tribunal."""
+
+    [[seasons.episodes]]
+    title = "Football, Feminism and You"
+    aired = "2009-10-22"
+    description = """Annie's dream of being the ex-football star's girlfriend is in jeopardy when Jeff is blackmailed into getting Troy to join Greendale's football team."""
+
+    [[seasons.episodes]]
+    title = "Introduction to Statistics"
+    aired = "2009-10-29"
+    description = """Jeff sets his sights on an attractive professor, and Annie looks to boost her social standing by hosting a Day of the Dead party."""
+
+    [[seasons.episodes]]
+    title = "Home Economics"
+    aired = "2009-11-05"
+    description = """Jeff is forced out of his condo and into Abed's dorm room, and Annie looks to get Troy's attention by helping him plan a romantic picnic."""
+
+    [[seasons.episodes]]
+    title = "Debate 109"
+    aired = "2009-11-12"
+    description = """As Jeff is drafted to help lead Greendale's debate team against the formidable City College, Abed's film-class projects appear to predict the future."""
+
+    [[seasons.episodes]]
+    title = "Environmental Science"
+    aired = "2009-11-19"
+    description = """Faced with an unreasonable amount of Spanish homework, Jeff's efforts to handle Señor Chang manage to help him, but not the rest of the class."""
+
+    [[seasons.episodes]]
+    title = "The Politics of Human Sexuality"
+    aired = "2009-12-03"
+    description = """With his high-price "escort" girlfriend on his arm, Pierce pressures Jeff into asking Dean Pelton's airhead secretary to double date at the STD Fair."""
+
+    [[seasons.episodes]]
+    title = "Comparative Religion"
+    aired = "2009-12-10"
+    description = """Shirley's plans for a holiday party are in jeopardy when Jeff is drawn into a fight with a campus bully."""
+
+    [[seasons.episodes]]
+    title = "Investigative Journalism"
+    aired = "2010-01-14"
+    description = """Jeff accepts an invitation to be the editor of the school paper as he and his friends fend off an interloper who wants to join their study group."""
+
+    [[seasons.episodes]]
+    title = "Interpretive Dance"
+    aired = "2010-01-21"
+    description = """As Jeff and Prof. Slater try to keep their student-teacher romance under wraps, Britta and Troy tell everyone about their shared passion for dance."""
+
+    [[seasons.episodes]]
+    title = "Romantic Expressionism"
+    aired = "2010-02-04"
+    description = """Jeff and Britta team up to derail Annie's fledgling romance with Greendale's resident hippie singer-songwriter, Vaughn."""
+
+    [[seasons.episodes]]
+    title = "Communication Studies"
+    aired = "2010-02-11"
+    description = """As Valentine's Day finds Jeff struggling with his feelings for Britta and professor Slater, Pierce and Troy are wrongly blamed for a prank."""
+
+    [[seasons.episodes]]
+    title = "Physical Education"
+    aired = "2010-03-04"
+    description = """The study group helps Abed land a date with a girl, and Jeff squares off with a P.E. coach who insists that he wear gym shorts to a billiards class."""
+
+    [[seasons.episodes]]
+    title = "Basic Genealogy"
+    aired = "2010-03-11"
+    description = """As Family Day lands Jeff in the middle of an affair with Pierce's sexy ex-stepdaughter, Shirley's unruly sons help liberate Abed's Afghani cousin."""
+
+    [[seasons.episodes]]
+    title = "Beginner Pottery"
+    aired = "2010-03-18"
+    description = """A pottery class he takes for an easy A reveals Jeff's deep-seated need to succeed."""
+
+    [[seasons.episodes]]
+    title = "The Science of Illusion"
+    aired = "2010-03-25"
+    description = """When her April Fools' Day prank inadvertently sends a human cadaver out the anatomy lab window, Britta looks to place the blame on Jeff."""
+
+    [[seasons.episodes]]
+    title = "Contemporary American Poultry"
+    aired = "2010-04-22"
+    description = """A scheme to replace a corrupt cafeteria employee transforms the study group into a criminal gang run by a power-hungry Abed."""
+
+    [[seasons.episodes]]
+    title = "The Art of Discourse"
+    aired = "2010-04-29"
+    description = """While a tasteless prank ends with Pierce being tossed out of the group, Britta and Jeff are forced to team up against some teen newcomers at school."""
+
+    [[seasons.episodes]]
+    title = "Modern Warfare"
+    aired = "2010-05-06"
+    description = """The first prize of priority registration engulfs Greendale Community College in a Spring Fling paintball war."""
+
+    [[seasons.episodes]]
+    title = "English as a Second Language"
+    aired = "2010-05-13"
+    description = """On the eve of an important final exam in Spanish, everyone's grades are jeopardized when it is discovered that Señor Chang has a damaging secret."""
+
+    [[seasons.episodes]]
+    title = "Pascal's Triangle Revisited"
+    aired = "2010-05-20"
+    description = """As the end of the school year finds Jeff at the apex of a romantic triangle, Annie ponders moving away with her hacky sack-playing boyfriend."""
+
+[[seasons]]
+title = "Season 2"
+
+    [[seasons.episodes]]
+    title = "Anthropology 101"
+    aired = "2010-09-23"
+    description = """When the semester starts, Jeff is stunned that his rejection of Britta has made her a campus star; Chang wants to be accepted into the study group."""
+
+    [[seasons.episodes]]
+    title = "Accounting for Lawyers"
+    aired = "2010-09-30"
+    description = """When an old friend from Jeff's past appears unexpectedly, his friends discover that he was the one responsible for Jeff's disbarment."""
+
+    [[seasons.episodes]]
+    title = "The Psychology of Letting Go"
+    aired = "2010-10-07"
+    description = """A death provokes a fierce debate about Pierce's religious beliefs. Britta and Annie are at odds over tactics in the Gulf oil spill fund-raising drive."""
+
+    [[seasons.episodes]]
+    title = "Basic Rocket Science"
+    aired = "2010-10-14"
+    description = """Jeff and the group must salvage an aging museum exhibit that Dean Pelton wants as the centerpiece of Greendale's proposed aerospace training program."""
+
+    [[seasons.episodes]]
+    title = "Messianic Myths and Ancient Peoples"
+    aired = "2010-10-21"
+    description = """Shirley and Abed are at odds over his plan to direct and star in his own epic religious film."""
+
+    [[seasons.episodes]]
+    title = "Epidemiology"
+    aired = "2010-10-28"
+    description = """Dean Pelton's army surplus party food sparks an outbreak of zombie-ism at the Greendale Halloween party."""
+
+    [[seasons.episodes]]
+    title = "Aerodynamics of Gender"
+    aired = "2010-11-04"
+    description = """Abed endears himself to the girls after he offers to take down their enemies on campus; Jeff and Troy stumble onto a groundskeeper's secret paradise."""
+
+    [[seasons.episodes]]
+    title = "Cooperative Calligraphy"
+    aired = "2010-11-11"
+    description = """Annie's missing pen leads to friction within the group."""
+
+    [[seasons.episodes]]
+    title = "Conspiracy Theories and Interior Design"
+    aired = "2010-11-18"
+    description = """When Jeff tries to obtain credit for a fictitious class, the unintended consequences rock Greendale. Abed and Troy build an elaborate blanket fort."""
+
+    [[seasons.episodes]]
+    title = "Mixology Certification"
+    aired = "2010-12-02"
+    description = """Troy's friends help him celebrate his 21st birthday."""
+
+    [[seasons.episodes]]
+    title = "Abed's Uncontrollable Christmas"
+    aired = "2010-12-09"
+    description = """The meaning of Christmas is lost and Abed's intense fixation on the holiday concerns the group in this special stop-motion animation episode."""
+
+    [[seasons.episodes]]
+    title = "Asian Population Studies"
+    aired = "2011-01-20"
+    description = """With Chang pressing for membership in the study group, Annie's latest crush has Jeff reeling as Shirley unveils some stunning news."""
+
+    [[seasons.episodes]]
+    title = "Celebrity Pharmacology"
+    aired = "2011-01-27"
+    description = """Pierce's efforts to bribe director Annie may undermine the theater group's antidrug play; Jeff's texting prank puts Britta in an awkward situation."""
+
+    [[seasons.episodes]]
+    title = "Early 21st Century Romanticism"
+    aired = "2011-02-10"
+    description = """On Valentine's Day, Troy and Abed compete for the attention of an assistant librarian, while Britta tries to show she's open-minded about lesbians."""
+
+    [[seasons.episodes]]
+    title = "Intermediate Documentary Filmmaking"
+    aired = "2011-02-17"
+    description = """Claiming that he is about to die, Pierce summons the study group to the hospital to bequeath his belongings to them."""
+
+    [[seasons.episodes]]
+    title = "Intro to Political Science"
+    aired = "2011-02-24"
+    description = """For an upcoming vice-presidential visit, Glendale's Dean Pelton hastily organizes an election for student body president that pits Annie against Jeff."""
+
+    [[seasons.episodes]]
+    title = "Custody Law and Eastern European Diplomacy"
+    aired = "2011-03-17"
+    description = """Although Shirley and Andre don't want Chang involved with her baby, he resolves to be a good dad. Abed and Troy's new friend may be a war criminal."""
+
+    [[seasons.episodes]]
+    title = "Critical Film Studies"
+    aired = "2011-03-24"
+    description = """Jeff and the group arrange a Pulp Fiction birthday party for Abed, but he has his own plans, starting with an expensive dinner for himself and Jeff."""
+
+    [[seasons.episodes]]
+    title = "Competitive Wine Tasting"
+    aired = "2011-04-14"
+    description = """Jeff is suspicious of Pierce's engagement to a pretty classmate. Troy invents a childhood trauma to impress Britta, and Abed challenges a professor."""
+
+    [[seasons.episodes]]
+    title = "Paradigms of Human Memory"
+    aired = "2011-04-21"
+    description = """Working on their final anthropology diorama, Chang finds a cache of items stolen by Troy's monkey that dredge up unhappy memories for the study group."""
+
+    [[seasons.episodes]]
+    title = "Applied Anthropology and Culinary Arts"
+    aired = "2011-04-28"
+    description = """As the semester ends, the anthropology final is disrupted when Shirley goes into labor and her husband, Andre, is summoned to school for the birth."""
+
+    [[seasons.episodes]]
+    title = "A Fist Full of Paintballs"
+    aired = "2011-05-05"
+    description = """A $100,000 paintball war prize pits members of the study group against one another, until they decide to join forces to stop a mysterious challenger."""
+
+    [[seasons.episodes]]
+    title = "For a Few Paintballs More"
+    aired = "2011-05-12"
+    description = """As the paintball war is revealed to be a City College plot, Jeff and Troy vie for control of Greendale's ragtag army, while Pierce betrays the group."""
+
+[[seasons]]
+title = "Season 3"
+
+    [[seasons.episodes]]
+    title = "Biology 101"
+    aired = "2011-09-22"
+    description = """As Jeff tries to keep Pierce from rejoining the study group, Dean Pelton faces off with Vice Dean Laybourne for control of Greendale."""
+
+    [[seasons.episodes]]
+    title = "Geography of Global Conflict"
+    aired = "2011-09-29"
+    description = """As Annie competes with an overachieving rival in a Model United Nations competition, Jeff wrestles with his feelings for his ambitious friend."""
+
+    [[seasons.episodes]]
+    title = "Competitive Ecology"
+    aired = "2011-10-09"
+    description = """The study group struggles to incorporate a fellow classmate while working on a project for Professor Kane's class."""
+
+    [[seasons.episodes]]
+    title = "Remedial Chaos Theory"
+    aired = "2011-10-13"
+    description = """When Jeff introduces an element of randomness into Troy and Abed's housewarming party, reality splits into six timelines."""
+
+    [[seasons.episodes]]
+    title = "Horror Fiction in Seven Spooky Steps"
+    aired = "2011-10-27"
+    description = """When a personality test suggests that one group member is a homicidal maniac, they use a series of scary Halloween stories to expose the killer."""
+
+    [[seasons.episodes]]
+    title = "Advanced Gay"
+    aired = "2011-11-03"
+    description = """When a drag queen's song makes Hawthorne Wipes an iconic gay product, Pierce embraces it, until his homophobic dad shows up to squelch the idea."""
+
+    [[seasons.episodes]]
+    title = "Studies of Modern Movement"
+    aired = "2011-11-10"
+    description = """Annie has second thoughts about moving in with Troy and Abed once she realizes that they expect her to live in a blanket fort."""
+
+    [[seasons.episodes]]
+    title = "Documentary Filmmaking: Redux"
+    aired = "2011-11-17"
+    description = """As Dean Pelton films a new commercial for Greendale, the production takes a wild turn once he discovers that a famous alum has agreed to appear in it."""
+
+    [[seasons.episodes]]
+    title = "Foosball and Nocturnal Vigilantism"
+    aired = "2011-12-01"
+    description = """When Shirley agrees to coach Jeff in foosball, they realize that she bullied him mercilessly when they were kids."""
+
+    [[seasons.episodes]]
+    title = "Regional Holiday Music"
+    aired = "2011-12-08"
+    description = """The study group is slowly convinced to fill in for the Glee Club at Greendale's Christmas pageant."""
+
+    [[seasons.episodes]]
+    title = "Urban Matrimony and the Sandwich Arts"
+    aired = "2012-03-15"
+    description = """When Shirley's remarriage to Andre threatens to put her dreams of starting a business with Pierce on hold, Britta steps in."""
+
+    [[seasons.episodes]]
+    title = "Contemporary Impressionists"
+    aired = "2012-03-22"
+    description = """The study group must work as celebrity impersonators at a bar mitzvah to pay off Abed's debt to a talent agency owner."""
+
+    [[seasons.episodes]]
+    title = "Digital Exploration of Interior Design"
+    aired = "2012-03-29"
+    description = """When Britta falls for the human embodiment of the Subway sandwich chain, Shirley and Pierce hope to use the situation to their advantage."""
+
+    [[seasons.episodes]]
+    title = "Pillows and Blankets"
+    aired = "2012-04-05"
+    description = """The students of Greendale are drawn into an epic pillow fight as Troy and Abed start a war that threatens to destroy their unique friendship."""
+
+    [[seasons.episodes]]
+    title = "Origins of Vampire Mythology"
+    aired = "2012-04-19"
+    description = """When a carnival comes to Greendale, Annie goes to great lengths to make sure that Britta doesn't contact her carnival worker ex-boyfriend."""
+
+    [[seasons.episodes]]
+    title = "Virtual Systems Analysis"
+    aired = "2012-04-19"
+    description = """After sending Troy and Britta on a date, Annie volunteers to keep Abed company in his Dreamatorium."""
+
+    [[seasons.episodes]]
+    title = "Basic Lupine Urology"
+    aired = "2012-04-26"
+    description = """When the yam the study group was growing for biology class is killed, Troy and Abed are on the case."""
+
+    [[seasons.episodes]]
+    title = "Course Listing Unavailable"
+    aired = "2012-05-03"
+    description = """After a classmate suddenly dies, the study group decides to host a memorial, but Jeff turns his speech into an angry anti-Greendale rant."""
+
+    [[seasons.episodes]]
+    title = "Curriculum Unavailable"
+    aired = "2012-05-10"
+    description = """After Abed is caught trespassing at Greendale, he and his friends visit a psychiatrist."""
+
+    [[seasons.episodes]]
+    title = "Digital Estate Planning"
+    aired = "2012-05-17"
+    description = """Pierce and his closest friends are summoned to Hawthorne Labs to play a video game that will determine who will inherit his father's fortune."""
+
+    [[seasons.episodes]]
+    title = "The First Chang Dynasty"
+    aired = "2012-05-17"
+    description = """The study group stages an elaborate heist to break in to Greendale and free Dean Pelton (Jim Rash) from the clutches of Chang (Ken Jeong)."""
+
+    [[seasons.episodes]]
+    title = "Introduction to Finality"
+    aired = "2012-05-17"
+    description = """Jeff agrees to represent Shirley in a case against Pierce to determine official ownership of their new sandwich shop."""
+
+[[seasons]]
+title = "Season 4"
+
+    [[seasons.episodes]]
+    title = "History 101"
+    aired = "2013-02-07"
+    description = """On the first day of senior year, Jeff reveals some news that might tear apart the study group. Meanwhile, Dean Pelton holds an elaborate competition."""
+
+    [[seasons.episodes]]
+    title = "Paranormal Parentage"
+    aired = "2013-02-14"
+    description = """On the way to a Halloween party, the study group must free Pierce from his panic room and slowly comes to suspect that his mansion is haunted."""
+
+    [[seasons.episodes]]
+    title = "Conventions of Space and Time"
+    aired = "2013-02-21"
+    description = """Troy worries about losing Abed to a fellow Inspector Spacetime fan at a convention for the show, while Annie fantasizes about being married to Jeff."""
+
+    [[seasons.episodes]]
+    title = "Alternative History of the German Invasion"
+    aired = "2013-02-28"
+    description = """The study group contends with a group of German students who take over the study room. Chang makes his return to campus."""
+
+    [[seasons.episodes]]
+    title = "Cooperative Escapism in Familial Relations"
+    aired = "2013-03-07"
+    description = """Britta joins Jeff to see his estranged father on Thanksgiving. Shirley invites the rest of the group to spend the holiday with her judgmental in-laws."""
+
+    [[seasons.episodes]]
+    title = "Advanced Documentary Filmmaking"
+    aired = "2013-03-14"
+    description = """Greendale comes together to get to the bottom of Chang's amnesia, which Abed films as a documentary. Jeff, however, suspects Chang is faking it."""
+
+    [[seasons.episodes]]
+    title = "Economics of Marine Biology"
+    aired = "2013-03-21"
+    description = """Dean Pelton enlists the study group to beautify the campus to woo a wealthy student to Greendale. A class on teaching P.E. pits Shirley against Troy."""
+
+    [[seasons.episodes]]
+    title = "Herstory of Dance"
+    aired = "2013-04-04"
+    description = """Jeff sets out to embarrass Britta when she announces a dance for women's empowerment. Abed dreams of shuttling between two dates in one night."""
+
+    [[seasons.episodes]]
+    title = "Intro to Felt Surrogacy"
+    aired = "2013-04-11"
+    description = """Dean Pelton prompts the study group to use puppets to relive the traumatic events of a recent adventure."""
+
+    [[seasons.episodes]]
+    title = "Intro to Knots"
+    aired = "2013-04-18"
+    description = """Jeff organizes a lovely holiday gathering at his apartment, but Annie secretly invites Professor Cornwallis to get in his good graces."""
+
+    [[seasons.episodes]]
+    title = "Basic Human Anatomy"
+    aired = "2013-04-25"
+    description = """When Annie and Shirley learn that Leonard is actually holding the spot as the class valedictorian, they join forces to bring him down."""
+
+    [[seasons.episodes]]
+    title = "Heroic Origins"
+    aired = "2013-05-02"
+    description = """Abed's research into the study group's history uncovers an overlooked series of chance encounters that led each of them to Greendale."""
+
+    [[seasons.episodes]]
+    title = "Advanced Introduction to Finality"
+    aired = "2013-05-09"
+    description = """A plan to celebrate Jeff's early graduation is unexpectedly disrupted by the study group's evil doppelgangers from the Darkest Timeline."""
+
+[[seasons]]
+title = "Season 5"
+
+    [[seasons.episodes]]
+    title = "Repilot"
+    aired = "2014-01-02"
+    description = """With his law practice doomed, Jeff returns to Greendale to start a class action suit against the school, but a hologram of Pierce has him reconsider."""
+
+    [[seasons.episodes]]
+    title = "Introduction to Teaching"
+    aired = "2014-01-02"
+    description = """Abed tackles a two-day crash course on Nicolas Cage, while a clueless Jeff begins his teaching career with Annie as his most demanding student."""
+
+    [[seasons.episodes]]
+    title = "Basic Intergluteal Numismatics"
+    aired = "2014-01-09"
+    description = """With the mysterious Ass Crack Bandit back at Greendale, Annie and Jeff are on the case. As clues and suspicions mount, Shirley delivers shocking news."""
+
+    [[seasons.episodes]]
+    title = "Cooperative Polygraphy"
+    aired = "2014-01-16"
+    description = """Pierce's funeral leaves the study group with mixed feelings, especially after their late tormentor leaves one last test to reveal everyone's secrets."""
+
+    [[seasons.episodes]]
+    title = "Geothermal Escapism"
+    aired = "2014-01-23"
+    description = """For Troy's last day at Greendale, Abed holds a campus-wide "hot lava" fantasy game. With a comic book worth $50,000 as the prize, it's an all-out war."""
+
+    [[seasons.episodes]]
+    title = "Analysis of Cork-Based Networking"
+    aired = "2014-01-30"
+    description = """While Annie and Hickey's fight to get a bulletin board repaired spirals out of control, Abed and Britta go to war over spoilers of his favorite show."""
+
+    [[seasons.episodes]]
+    title = "Bondage and Beta Male Sexuality"
+    aired = "2014-02-27"
+    description = """Jeff counsels a smitten Duncan on how to get a date with Britta but is developing feelings of his own. An angry Hickey tries to teach Abed a lesson."""
+
+    [[seasons.episodes]]
+    title = "App Development and Condiments"
+    aired = "2014-03-06"
+    description = """A new caste system takes over when Greendale beta tests an app that ranks everyone. Shirley loves her new status, but Jeff and Britta want it stopped."""
+
+    [[seasons.episodes]]
+    title = "VCR Maintenance and Educational Publishing"
+    aired = "2014-03-13"
+    description = """Abed and Annie try to solve their new roommate dilemma with a retro VCR game, while Jeff, Shirley and Hickey hatch a plan to sell stolen textbooks."""
+
+    [[seasons.episodes]]
+    title = "Advanced Advanced Dungeons & Dragons"
+    aired = "2014-03-20"
+    description = """To help Hickey be a more involved grandfather, which means patching up a bad relationship with his son, the gang creates an epic role-playing game."""
+
+    [[seasons.episodes]]
+    title = "G.I. Jeff"
+    aired = "2014-03-03"
+    description = """Jeff's depression over turning 40 leads him to drink himself unconscious. In his dreams, he and the gang are part of the "G. I. Joe" cartoon team."""
+
+    [[seasons.episodes]]
+    title = "Basic Story"
+    aired = "2014-03-10"
+    description = """The Save Greendale Committee's success is short-lived when the board votes for a corporate sellout, but Pelton, Annie and Abed might find a solution."""
+
+    [[seasons.episodes]]
+    title = "Basic Sandwich"
+    aired = "2014-03-17"
+    description = """To save Greendale from being sold, the gang searches for an eccentric computer science professor's legendary treasure hidden beneath the school."""
+
+[[seasons]]
+title = "Season 6"
+
+    [[seasons.episodes]]
+    title = "Ladders"
+    aired = "2015-03-17"
+    description = """New administrative consultant Frankie's strict — and sobering — changes split the group when Abed goes rogue to side with the enemy."""
+
+    [[seasons.episodes]]
+    title = "Lawnmower Maintenance and Postnatal Care"
+    aired = "2015-03-17"
+    description = """When Dean Pelton loses himself — and a chunk of the college budget — in a virtual reality system, Jeff seeks help from its cantankerous inventor."""
+
+    [[seasons.episodes]]
+    title = "Basic Crisis Room Decorum"
+    aired = "2015-03-24"
+    description = """A rival's attack ad puts the group into defensive mode — and a moral quandary. Britta and Chang find new ways to gross everyone out."""
+
+    [[seasons.episodes]]
+    title = "Queer Studies and Advanced Waxing"
+    aired = "2015-03-31"
+    description = """Dean Pelton's sexuality gives him an uncomfortable edge for a school board seat. Chang scores a surprise win in a stage adaptation of "The Karate Kid.""""
+
+    [[seasons.episodes]]
+    title = "Laws of Robotics and Party Rights"
+    aired = "2015-04-07"
+    description = """When prisoners roll into Greendale via telerobot, Jeff meets his match in a clever convict. Britta's plans for a raging house party backfire."""
+
+    [[seasons.episodes]]
+    title = "Basic Email Security"
+    aired = "2015-04-14"
+    description = """A hacker angry over a racist comic's planned campus performance threatens to publish the activity committee's personal emails."""
+
+    [[seasons.episodes]]
+    title = "Advanced Safety Features"
+    aired = "2015-04-21"
+    description = """Britta's ex-boyfriend, Rick, returns, reigniting her far-fetched dreams of a normal relationship. Annie goes to extremes to win Elroy over."""
+
+    [[seasons.episodes]]
+    title = "Intro to Recycled Cinema"
+    aired = "2015-04-28"
+    description = """A commercial catchphrase catapults Chang to viral fame and a life-changing move. The group bands together to make movie magic for Abed."""
+
+    [[seasons.episodes]]
+    title = "Grifting 101"
+    aired = "2015-05-05"
+    description = """Visiting Professor DeSalvo gives Jeff and his friends a master class in grifting and a bonus lesson on the art of revenge."""
+
+    [[seasons.episodes]]
+    title = "Basic RV Repair and Palmistry"
+    aired = "2015-05-12"
+    description = """A 19-foot plaster hand guides the group on an emotional journey as they travel through mountains and flashbacks while aboard Elroy's RV."""
+
+    [[seasons.episodes]]
+    title = "Modern Espionage"
+    aired = "2015-05-19"
+    description = """Heroes are born, promises are broken and the stakes are raised when paintball makes an explosive return to Greendale's campus."""
+
+    [[seasons.episodes]]
+    title = "Wedding Videography"
+    aired = "2015-05-26"
+    description = """When two Greendale students get married, the wedding reception takes a turn after Jeff unwittingly exposes an inconvenient truth."""
+
+    [[seasons.episodes]]
+    title = "Emotional Consequences of Broadcast Television"
+    aired = "2015-06-02"
+    description = """The former study group's future — and friendships — are put to a test when one chapter of their lives closes and a new one begins."""
