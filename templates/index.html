@@ -42,7 +42,7 @@
             <h1>Random Episode Selector</h1>
             <form method="GET">
                 <select id="show" name="show">
-                    <option value="">Select...</option>
+                    <option value="">Select Show...</option>
                     {% for show in shows -%}
                     {% if current_show == show.0 -%}
                     <option value="{{ show.0 }}" selected>{{ show.1 }}</option>
