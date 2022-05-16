@@ -34,17 +34,14 @@ async fn main() {
 async fn index(Query(params): Query<HashMap<String, String>>) -> impl IntoResponse {
     let mut ctx = Context::new();
     ctx.insert("shows", &data::get_shows());
+    ctx.insert("current_show", "");
 
     // If a show is selected, select a random episode.
     if let Some(show) = params.get("show") {
         if let Some(episode) = data::get_random_episode(show) {
             ctx.insert("current_show", show);
             ctx.insert("episode", &episode);
-        } else {
-            ctx.insert("current_show", "");
         }
-    } else {
-        ctx.insert("current_show", "");
     }
 
     TEMPLATES

@@ -26,6 +26,16 @@ lazy_static! {
 
         data
     };
+
+    static ref NAMES: Vec<(String, String)> = {
+        let mut shows = DATA
+            .iter()
+            .map(|(k, v)| (k.clone(), v.title.clone()))
+            .collect::<Vec<(String, String)>>();
+
+        shows.sort_by(|a, b| a.cmp(&b));
+        shows
+    };
 }
 
 #[derive(Deserialize)]
@@ -58,13 +68,7 @@ pub struct EpisodeResponse {
 }
 
 pub fn get_shows() -> Vec<(String, String)> {
-    let mut shows = DATA
-        .iter()
-        .map(|(k, v)| (k.clone(), v.title.clone()))
-        .collect::<Vec<(String, String)>>();
-
-    shows.sort_by(|a, b| a.cmp(&b));
-    shows
+    NAMES.to_vec()
 }
 
 pub fn get_random_episode<S: Into<String>>(show_id: S) -> Option<EpisodeResponse> {
