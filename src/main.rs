@@ -9,6 +9,7 @@ use axum::response::{Html, IntoResponse};
 use axum::routing::get;
 use axum::{Router, Server};
 use tera::{Context, Tera};
+use tokio::signal;
 
 mod data;
 
@@ -27,6 +28,7 @@ async fn main() {
 
     Server::bind(&"0.0.0.0:8080".parse().unwrap())
         .serve(router.into_make_service())
+        .with_graceful_shutdown(handle_shutdown())
         .await
         .unwrap();
 }
@@ -53,4 +55,24 @@ async fn index(Query(params): Query<HashMap<String, String>>) -> impl IntoRespon
                 format!("Internal server error: {}", err),
             )
         })
+}
+
+async fn handle_shutdown() {
+    let ctrl_c = async {
+        signal::ctrl_c()
+            .await
+            .expect("failed to install Ctrl+C hanadler");
+    };
+
+    let terminate = async {
+        signal::unix::signal(signal::unix::SignalKind::terminate())
+            .expect("failed to install signal handler")
+            .recv()
+            .await;
+    };
+
+    tokio::select! {
+        _ = ctrl_c => {},
+        _ = terminate => {},
+    }
 }

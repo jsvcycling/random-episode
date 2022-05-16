@@ -26,7 +26,6 @@ lazy_static! {
 
         data
     };
-
     static ref NAMES: Vec<(String, String)> = {
         let mut shows = DATA
             .iter()
