@@ -1,0 +1,790 @@
+title = "Brooklyn Nine-Nine"
+
+[[seasons]]
+title = "Season 1"
+
+    [[seasons.episodes]]
+    title = "Pilot"
+    aired = "2013-09-17"
+    description = """The 99th precinct, a dysfunctional group of detectives, receives a new, tightly wound captain."""
+
+    [[seasons.episodes]]
+    title = "The Tagger"
+    aired = "2013-09-24"
+    description = """The culprit in a graffiti case Jake is investigating turns out to be the deputy commissioner's son."""
+
+    [[seasons.episodes]]
+    title = "The Slump"
+    aired = "2013-10-01"
+    description = """The detectives worry Jake's losing streak will rub off on them; Boyle helps Jeffords."""
+
+    [[seasons.episodes]]
+    title = "M.E. Time"
+    aired = "2013-10-08"
+    description = """Jake hits on a medical examiner at a crime scene; Amy's purse-snatching case is stalled."""
+
+    [[seasons.episodes]]
+    title = "The Vulture"
+    aired = "2013-10-15"
+    description = """Jake vows to get revenge when a detective from Special Crimes takes over his nearly solved case."""
+
+    [[seasons.episodes]]
+    title = "Halloween"
+    aired = "2013-10-22"
+    description = """Unhappy Amy must wear a costume to go on patrol with Charles."""
+
+    [[seasons.episodes]]
+    title = "48 Hours"
+    aired = "2013-11-05"
+    description = """Jake's co-workers help him find evidence to keep a suspect he arrested in custody."""
+
+    [[seasons.episodes]]
+    title = "Old School"
+    aired = "2013-11-12"
+    description = """Terry and Charles work with Rosa on how she comes across on the witness stand."""
+
+    [[seasons.episodes]]
+    title = "Sal's Pizza"
+    aired = "2013-11-19"
+    description = """When Sal's Pizza burns down, Jake goes out of his way to prove the owner didn't to it."""
+
+    [[seasons.episodes]]
+    title = "Thanksgiving"
+    aired = "2013-11-26"
+    description = """Holt and Jake must leave Amy's Thanksgiving dinner to catch a perp."""
+
+    [[seasons.episodes]]
+    title = "Christmas"
+    aired = "2013-12-03"
+    description = """When Holt starts getting death threats, Jake takes charge of his security; Terry gets his mojo back."""
+
+    [[seasons.episodes]]
+    title = "Pontiac Bandit"
+    aired = "2014-01-07"
+    description = """One of Rosa's perps has information on a car thief Jake has been after for years."""
+
+    [[seasons.episodes]]
+    title = "The Bet"
+    aired = "2014-01-14"
+    description = """Jake and Amy settle their ongoing bet about who can make more arrests."""
+
+    [[seasons.episodes]]
+    title = "The Ebony Falcon"
+    aired = "2014-01-21"
+    description = """Terry takes cues from Jake while on his first task back in the field."""
+
+    [[seasons.episodes]]
+    title = "Operation: Broken Feather"
+    aired = "2014-02-02"
+    description = """While investigating a string of robberies, Jake learns Amy may go work with the major crimes unit."""
+
+    [[seasons.episodes]]
+    title = "The Party"
+    aired = "2014-02-04"
+    description = """The officers make a poor impression on Holt's husband during his birthday celebration."""
+
+    [[seasons.episodes]]
+    title = "Full Boyle"
+    aired = "2014-02-11"
+    description = """Jake intervenes in Detective Boyle's relationship; Capt. Holt has a new opponent."""
+
+    [[seasons.episodes]]
+    title = "The Apartment"
+    aired = "2014-02-25"
+    description = """Jake's fate is in Gina's hands as his crushing debt threatens to put him on the streets."""
+
+    [[seasons.episodes]]
+    title = "Tactical Village"
+    aired = "2014-03-04"
+    description = """All the regional precincts compete in a mandatory training course; Amy runs into an ex."""
+
+    [[seasons.episodes]]
+    title = "Fancy Brudgom"
+    aired = "2014-03-11"
+    description = """As Charles' best man, Jake must be involved with important wedding decisions."""
+
+    [[seasons.episodes]]
+    title = "Unsolvable"
+    aired = "2014-03-18"
+    description = """During a weekend off, Jake decides to tackle a cold case that everyone thinks is unsolvable."""
+
+    [[seasons.episodes]]
+    title = "Charges and Specs"
+    aired = "2014-03-25"
+    description = """When Jake's investigation of a philanthropic leader is shut down, he seeks help from Amy and Holt."""
+
+[[seasons]]
+title = "Season 2"
+
+    [[seasons.episodes]]
+    title = "Undercover"
+    aired = "2014-09-28"
+    description = """After his undercover FBI operation ends successfully, Jake learns one mobster got away."""
+
+    [[seasons.episodes]]
+    title = "Chocolate Milk"
+    aired = "2014-10-05"
+    description = """Holt's longtime nemesis comes to inspect the precinct; Jake and Terry test their friendship."""
+
+    [[seasons.episodes]]
+    title = "The Jimmy Jab Games"
+    aired = "2014-10-12"
+    description = """With time to kill at the precinct, Jake launches a series of competitions to keep everyone busy."""
+
+    [[seasons.episodes]]
+    title = "Halloween II"
+    aired = "2014-10-19"
+    description = """Jake challenges Capt. Holt that he can steal his watch; Gina gets kicked off her dance team."""
+
+    [[seasons.episodes]]
+    title = "The Mole"
+    aired = "2014-11-02"
+    description = """Holt and Jake need to root out a mole in the precinct before Deputy Chief Wuntch hears about it."""
+
+    [[seasons.episodes]]
+    title = "Jake and Sophia"
+    aired = "2014-11-09"
+    description = """Jake discovers the woman he met at the bar is the lawyer for a perp he's trying to put in jail."""
+
+    [[seasons.episodes]]
+    title = "Lockdown"
+    aired = "2014-11-16"
+    description = """Jake is confident he can keep spirits high when the precinct goes into lockdown on Thanksgiving."""
+
+    [[seasons.episodes]]
+    title = "USPIS"
+    aired = "2014-11-23"
+    description = """Jake and Charles team up with the lead investigator at the Postal Service to catch a drug dealer."""
+
+    [[seasons.episodes]]
+    title = "The Road Trip"
+    aired = "2014-11-30"
+    description = """Jake invites his girlfriend and Amy's boyfriend to join them on their work trip."""
+
+    [[seasons.episodes]]
+    title = "The Pontiac Bandit Returns"
+    aired = "2014-12-07"
+    description = """The Pontiac Bandit is back in custody, where his knowledge of a drug dealer earns him a plea deal."""
+
+    [[seasons.episodes]]
+    title = "Stakeout"
+    aired = "2014-12-14"
+    description = """Charles and Jake's relationship is impacted during an eight-day stakeout in close quarters."""
+
+    [[seasons.episodes]]
+    title = "Beach House"
+    aired = "2015-01-04"
+    description = """Jake ruins a detectives-only getaway to Charles' beach house by inviting Holt."""
+
+    [[seasons.episodes]]
+    title = "Payback"
+    aired = "2015-01-11"
+    description = """The squad members demand that Jake repay all the money he has borrowed over the years."""
+
+    [[seasons.episodes]]
+    title = "The Defense Rests"
+    aired = "2015-01-25"
+    description = """When Sophia's relationship with Jake conflicts with her job, Jake tries to make things right."""
+
+    [[seasons.episodes]]
+    title = "Windbreaker City"
+    aired = "2015-02-08"
+    description = """Jake's spirits are lifted when the squad gets invited to a terrorist-training simulation."""
+
+    [[seasons.episodes]]
+    title = "The Wednesday Incident"
+    aired = "2015-02-15"
+    description = """Jake teams up with Holt's husband to figure out why Holt has been acting moody."""
+
+    [[seasons.episodes]]
+    title = "Boyle-Linetti Wedding"
+    aired = "2015-03-01"
+    description = """The whole squad is given a job to do for the wedding ceremony for Gina and Charles' parents."""
+
+    [[seasons.episodes]]
+    title = "Captain Peralta"
+    aired = "2015-03-08"
+    description = """When Jake's father comes to town, Jake is excited to see him, but Charles is wary of his intentions."""
+
+    [[seasons.episodes]]
+    title = "Sabotage"
+    aired = "2015-03-15"
+    description = """A streak of bad luck leads Jake to think he's being sabotaged by an enemy."""
+
+    [[seasons.episodes]]
+    title = "AC/DC"
+    aired = "2015-04-26"
+    description = """After an injury on the job, Jake is forced to take time off; Rosa and Holt go on a double date."""
+
+    [[seasons.episodes]]
+    title = "Det. Dave Majors"
+    aired = "2015-05-03"
+    description = """Jake is thrilled to work with Detective Dave Majors, until he learns Majors intends to ask Amy out."""
+
+    [[seasons.episodes]]
+    title = "The Chopper"
+    aired = "2015-05-10"
+    description = """When Wuntch lets Peralta work his dream case, Holt worries she's setting him up to fail."""
+
+    [[seasons.episodes]]
+    title = "Jonny and Dora"
+    aired = "2015-05-17"
+    description = """When Jake and Amy go under cover to catch an identity thief, the investigation brings them closer."""
+
+[[seasons]]
+title = "Season 3"
+
+    [[seasons.episodes]]
+    title = "New Captain"
+    aired = "2015-09-27"
+    description = """After Holt is transferred, the precinct's new captain arrives, creating chaos."""
+
+    [[seasons.episodes]]
+    title = "The Funeral"
+    aired = "2015-10-04"
+    description = """Another personnel change could threaten Jake and Amy's burgeoning relationship."""
+
+    [[seasons.episodes]]
+    title = "Boyle's Hunch"
+    aired = "2015-10-11"
+    description = """Jake thinks an art gallery owner is Boyle's soul mate and tries to set them up on a date."""
+
+    [[seasons.episodes]]
+    title = "The Oolong Slayer"
+    aired = "2015-10-18"
+    description = """Jake asks Holt for help keeping a case involving a serial killer under the radar."""
+
+    [[seasons.episodes]]
+    title = "Halloween III"
+    aired = "2015-10-25"
+    description = """Holt and Peralta compete for the title of \"amazing detective slash genius.\""""
+
+    [[seasons.episodes]]
+    title = "Into the Woods"
+    aired = "2015-11-08"
+    description = """Jake and Charles talk Terry into going camping; Rosa receives relationship advice from Holt."""
+
+    [[seasons.episodes]]
+    title = "The Mattress"
+    aired = "2015-11-15"
+    description = """Jake and Amy's relationship gets in the way as they work a case involving a new street drug."""
+
+    [[seasons.episodes]]
+    title = "Ava"
+    aired = "2015-11-22"
+    description = """Terry's wife goes into labor sooner than expected; Holt has an encounter with an ex-boyfriend."""
+
+    [[seasons.episodes]]
+    title = "The Swedes"
+    aired = "2015-12-06"
+    description = """Things get competitive when Jake and Rosa work on an international case with Swedish cops."""
+
+    [[seasons.episodes]]
+    title = "Yippie Kayak"
+    aired = "2016-12-13"
+    description = """On Christmas Eve, Terry must save Jake, Charles and Gina from a real "Die Hard" situation."""
+
+    [[seasons.episodes]]
+    title = "Hostage Situation"
+    aired = "2016-01-05"
+    description = """Charles' ex-wife tries to interfere with his relationship with Genevieve."""
+
+    [[seasons.episodes]]
+    title = "9 Days"
+    aired = "2016-01-19"
+    description = """Holt and Jake contract the mumps during an investigation and decide to be quarantined together."""
+
+    [[seasons.episodes]]
+    title = "The Cruise"
+    aired = "2016-01-26"
+    description = """When Jake and Amy go on their first vacation together on a cruise ship, they run into an adversary."""
+
+    [[seasons.episodes]]
+    title = "Karen Peralta"
+    aired = "2016-02-02"
+    description = """On his birthday, Jake plans to introduce Amy to his mother; a new mandate involving body cams."""
+
+    [[seasons.episodes]]
+    title = "The 9-8"
+    aired = "2016-02-09"
+    description = """Charles is immediately jealous when Jake is reunited with his former partner."""
+
+    [[seasons.episodes]]
+    title = "House Mouses"
+    aired = "2016-02-16"
+    description = """Hitchcock and Scully force their way onto one of Jake's biggest cases to prove themselves."""
+
+    [[seasons.episodes]]
+    title = "Adrian Pimento"
+    aired = "2016-02-23"
+    description = """An unstable detective returns to the Nine-Nine after being under cover for years."""
+
+    [[seasons.episodes]]
+    title = "Chedder"
+    aired = "2016-03-01"
+    description = """Holt's dog, Cheddar, goes missing while Amy and Jake are house-sitting during Holt's trip to Paris."""
+
+    [[seasons.episodes]]
+    title = "Terry Kitties"
+    aired = "2016-03-15"
+    description = """Terry solicits Jake's help to solve a case from his past; Charles and Adrian move in together."""
+
+    [[seasons.episodes]]
+    title = "Paranoia"
+    aired = "2016-03-29"
+    description = """Rosa asks Jake to help change Terry's mind about her new relationship with Adrian Pimento."""
+
+    [[seasons.episodes]]
+    title = "Maximum Security"
+    aired = "2016-04-05"
+    description = """Amy goes under cover at a women's prison; Holt and the team plan a fake funeral to catch a hit-man."""
+
+    [[seasons.episodes]]
+    title = "Bureau"
+    aired = "2016-04-12"
+    description = """Capt. Holt enlists a friend in the FBI for help with a heist; Terry and Gina discover a leak.v"""
+
+    [[seasons.episodes]]
+    title = "Greg and Larry"
+    aired = "2016-04-19"
+    description = """The precinct drops everything when they suspect Holt is in danger."""
+
+[[seasons]]
+title = "Season 4"
+
+    [[seasons.episodes]]
+    title = "Coral Palms: Part 1"
+    aired = "2016-09-20"
+    description = """Jake and Holt adjust to their lives in Witness Protection, while Jimmy Figgis is still at large."""
+
+    [[seasons.episodes]]
+    title = "Coral Palms: Part 2"
+    aired = "2016-09-27"
+    description = """After Jimmy Figgis sees the viral video, Jake and Holt plot their attack; a new captain takes over."""
+
+    [[seasons.episodes]]
+    title = "Coral Palms: Part 3"
+    aired = "2016-10-04"
+    description = """A road trip to help Jake and Holt take down Figgis is hindered by an injury and by Sheriff Reynolds."""
+
+    [[seasons.episodes]]
+    title = "The Night Shift"
+    aired = "2016-10-11"
+    description = """Jake runs into Jess Day, who is visiting from Los Angeles, and enlists her help on a case."""
+
+    [[seasons.episodes]]
+    title = "Halloween IV"
+    aired = "2016-10-18"
+    description = """On Halloween, the squad members compete to win the title of \"Ultimate Detective Slash Genius.\""""
+
+    [[seasons.episodes]]
+    title = "Moster in the Closet"
+    aired = "2016-11-15"
+    description = """When Pimento and Rosa decide to tie the knot, the squad prepares a wedding under Amy's direction."""
+
+    [[seasons.episodes]]
+    title = "Mr. Santiago"
+    aired = "2016-11-22"
+    description = """Jake tries to impress Amy's father at Thanksgiving dinner; Charles is on turkey duty."""
+
+    [[seasons.episodes]]
+    title = "Skyfire Cycle"
+    aired = "2016-11-29"
+    description = """When a famous author receives death threats, Jake and Terry take the case."""
+
+    [[seasons.episodes]]
+    title = "The Overmining"
+    aired = "2016-12-06"
+    description = """Jake and Holt try to help Captain C.J. with a big case; Terry imposes a green initiative."""
+
+    [[seasons.episodes]]
+    title = "Captain Latvia"
+    aired = "2016-12-13"
+    description = """While looking for a Christmas gift, Jake and Charles end up facing off against a Latvian crime ring."""
+
+    [[seasons.episodes]]
+    title = "The Fugitive (Part 1)"
+    aired = "2017-01-01"
+    description = """Football player Marshawn Lynch is the only witness when inmates escape from a prison van."""
+
+    [[seasons.episodes]]
+    title = "The Fugitive (Part 2)"
+    aired = "2017-01-01"
+    description = """Football player Marshawn Lynch is the only witness when inmates escape from a prison van."""
+
+    [[seasons.episodes]]
+    title = "The Audit"
+    aired = "2017-04-11"
+    description = """The squad must band together to save the Nine-Nine when the precinct undergoes an evaluation."""
+
+    [[seasons.episodes]]
+    title = "Serve & Protect"
+    aired = "2017-04-18"
+    description = """A burglary on the set of a TV show distracts Jake and Rosa from the precinct's on-going evaluation."""
+
+    [[seasons.episodes]]
+    title = "The Last Ride"
+    aired = "2017-04-25"
+    description = """Jake and Charles go to extremes to catch a bike thief; Amy spends some precious time with Holt."""
+
+    [[seasons.episodes]]
+    title = "Moo Moo"
+    aired = "2017-05-02"
+    description = """Terry is stopped by a fellow police officer while off-duty in his own neighborhood."""
+
+    [[seasons.episodes]]
+    title = "Cop-Con"
+    aired = "2017-05-09"
+    description = """Holt asks his team to be on their best behavior as they head to Cop-Con."""
+
+    [[seasons.episodes]]
+    title = "Chasing Amy"
+    aired = "2017-05-09"
+    description = """Jake and Rosa must find Amy when she suddenly goes missing hours before the sergeant exam."""
+
+    [[seasons.episodes]]
+    title = "Your Honor"
+    aired = "2017-05-16"
+    description = """Captain Holt's mom seeks support from the precinct after her house is robbed."""
+
+    [[seasons.episodes]]
+    title = "The Slaughterhouse"
+    aired = "2017-05-16"
+    description = """Charles, Terry and Gina test different parenting methods to resolve a conflict."""
+
+    [[seasons.episodes]]
+    title = "The Bank Job"
+    aired = "2017-05-23"
+    description = """Jake, Rosa and Lt. Hawkins continue their search for a bank-robbing operation."""
+
+    [[seasons.episodes]]
+    title = "Crime and Punishment"
+    aired = "2017-05-23"
+    description = """Jake and Rosa are framed for a crime they didn't commit."""
+
+[[seasons]]
+title = "Season 5"
+
+    [[seasons.episodes]]
+    title = "The Big House: Part 1"
+    aired = "2017-09-26"
+    description = """Jake and Rosa are coping with life behind bars; Amy and Charles try to exonerate their colleagues."""
+
+    [[seasons.episodes]]
+    title = "The Big House: Part 2"
+    aired = "2017-10-03"
+    description = """The warden asks Jake to investigate Romero's drug smuggling operation; a mobster offers information."""
+
+    [[seasons.episodes]]
+    title = "Kicks"
+    aired = "2017-10-10"
+    description = """Jake is back, but is assigned desk duty; Jake finds a loophole that may get him back in the field."""
+
+    [[seasons.episodes]]
+    title = "HalloVeen"
+    aired = "2017-10-17"
+    description = """When the precinct embarks on its 5th annual Halloween Heist, relationships are tested."""
+
+    [[seasons.episodes]]
+    title = "Bad Beat"
+    aired = "2017-11-07"
+    description = """Jake and Terry must go under cover at an illegal gambling club to catch an infamous arms dealer."""
+
+    [[seasons.episodes]]
+    title = "The Venue"
+    aired = "2017-11-14"
+    description = """The "Vulture" returns and threatens to take something away from Jake and Amy."""
+
+    [[seasons.episodes]]
+    title = "Two Turkeys"
+    aired = "2017-11-21"
+    description = """Jake and Amy attempt to get their parents to bond during Thanksgiving; Holt's special pie is stolen."""
+
+    [[seasons.episodes]]
+    title = "Return to Skyfire"
+    aired = "2017-11-28"
+    description = """Terry, Jake and Rosa go under cover at a fantasy fiction convention to find a manuscript's thief."""
+
+    [[seasons.episodes]]
+    title = "99"
+    aired = "2017-12-05"
+    description = """The precinct attends a funeral in Los Angeles; Holt must get back to New York for a job interview."""
+
+    [[seasons.episodes]]
+    title = "Game Night"
+    aired = "2017-12-12"
+    description = """Rosa begs Jake to help her break some big news to her parents."""
+
+    [[seasons.episodes]]
+    title = "The Favor"
+    aired = "2017-12-12"
+    description = """Seamus Murphy returns to redeem a favor from Holt and the precinct looks for a loophole for him."""
+
+    [[seasons.episodes]]
+    title = "Safe House"
+    aired = "2018-03-18"
+    description = """Seamus threatens Kevin; Holt devises a plan to hide him in a safe house, using Jake as his guard."""
+
+    [[seasons.episodes]]
+    title = "The Negotiation"
+    aired = "2018-03-25"
+    description = """Jake is asked to negotiate a hostage situation; Gina and Amy help with Charles' food truck."""
+
+    [[seasons.episodes]]
+    title = "The Box"
+    aired = "2018-04-01"
+    description = """Capt. Holt skips the opera to help Jake with an all-night interrogation."""
+
+    [[seasons.episodes]]
+    title = "The Puzzle Master"
+    aired = "2018-04-08"
+    description = """Jake surprises Amy with a case connected to her favorite crossword puzzle author."""
+
+    [[seasons.episodes]]
+    title = "NutriBoom"
+    aired = "2018-04-15"
+    description = """Jake and Charles get tied up in a pyramid scheme and must find a way to sever their contracts."""
+
+    [[seasons.episodes]]
+    title = "DFW"
+    aired = "2018-04-15"
+    description = """Jake invites his newly discovered half sister to stay with him but soon realizes she's a nightmare."""
+
+    [[seasons.episodes]]
+    title = "Gray Star Mutual"
+    aired = "2018-04-29"
+    description = """When a fire destroys Charles' food truck, Pimento shows up to the scene as the insurance agent."""
+
+    [[seasons.episodes]]
+    title = "Bachelor/ette Party"
+    aired = "2018-06-06"
+    description = """Charles plans an elaborate scavenger hunt for Jake's bachelor party, but the day goes awry."""
+
+    [[seasons.episodes]]
+    title = "Show Me Going"
+    aired = "2018-06-06"
+    description = """Rosa responds to an active shooter alert; the rest of the squad is forced to stay back."""
+
+    [[seasons.episodes]]
+    title = "White Whale"
+    aired = "2018-06-13"
+    description = """Rosa and Amy team up to take down a ruthless killer who has managed to elude them for seven years."""
+
+    [[seasons.episodes]]
+    title = "Jake & Amy"
+    aired = "2018-06-20"
+    description = """Jake and Amy's wedding day is threatened; Charles and the whole squad rush to save it."""
+
+[[seasons]]
+title = "Season 6"
+
+    [[seasons.episodes]]
+    title = "Honeymoon"
+    aired = "2019-01-10"
+    description = """Jake and Amy go on their honeymoon; Holt finds out whether he is the new commissioner of the NYPD."""
+
+    [[seasons.episodes]]
+    title = "Hitchcock & Scully"
+    aired = "2019-01-17"
+    description = """Jake and Charles investigate a case of Hitchcock and Scully's from the 1980s."""
+
+    [[seasons.episodes]]
+    title = "The Tattler"
+    aired = "2019-01-24"
+    description = """Jake and Gina attend their 20th high school reunion; Charles helps Rosa with her love life."""
+
+    [[seasons.episodes]]
+    title = "Four Movements"
+    aired = "2019-01-31"
+    description = """Gina plays a high-stakes game of chess with Capt. Holt; Rosa and Amy take Gina out for brunch."""
+
+    [[seasons.episodes]]
+    title = "A Tale of Two Bandits"
+    aired = "2019-02-07"
+    description = """Terry believes the Pontiac Bandit is stealing cars, but Jake believes his friend wouldn't do that."""
+
+    [[seasons.episodes]]
+    title = "The Crime Scene"
+    aired = "2019-02-14"
+    description = """Jake and Rosa must deal with a mother in mourning as they work to solve a difficult murder case."""
+
+    [[seasons.episodes]]
+    title = "The Honeypot"
+    aired = "2019-02-21"
+    description = """Jake and Holt clash over the merits of a new hire in the 99th precinct."""
+
+    [[seasons.episodes]]
+    title = "He Said, She Said"
+    aired = "2019-02-28"
+    description = """Jake and Amy investigate a "he said, she said" case; Holt is suspicious when his nemesis dies."""
+
+    [[seasons.episodes]]
+    title = "The Golden Child"
+    aired = "2019-03-07"
+    description = """Jake helps Amy navigate the complicated relationship she has with her brother David."""
+
+    [[seasons.episodes]]
+    title = "Gintars"
+    aired = "2019-03-14"
+    description = """A visitor from Latvia causes Charles and Jake to investigate Nikolaj's family."""
+
+    [[seasons.episodes]]
+    title = "The Therapist"
+    aired = "2019-03-21"
+    description = """Charles brings Jake into a case when a therapist reports one of his patients missing."""
+
+    [[seasons.episodes]]
+    title = "Casecation"
+    aired = "2019-04-11"
+    description = """Jake and Amy celebrate their anniversary while standing guard over a comatose hospital patient."""
+
+    [[seasons.episodes]]
+    title = "The Bimbo"
+    aired = "2019-04-18"
+    description = """Holt and Jake investigate a case at Kevin's university; Terry and Amy take the squad out for lunch."""
+
+    [[seasons.episodes]]
+    title = "Ticking Clocks"
+    aired = "2019-04-25"
+    description = """Jake and the squad must track down a hacker who has infiltrated the Nine-Nine's servers."""
+
+    [[seasons.episodes]]
+    title = "Return of the King"
+    aired = "2019-05-02"
+    description = """When Gina returns, Jake and Terry get drawn into her life; Rosa copes with an injury."""
+
+    [[seasons.episodes]]
+    title = "Cinco de Mayo"
+    aired = "2019-05-09"
+    description = """Jake, Holt and the squad decide to hold the annual Halloween Heist on a new date, Cinco de Mayo."""
+
+    [[seasons.episodes]]
+    title = "Sicko"
+    aired = "2019-05-16"
+    description = """Jake and Charles investigate a dangerous serial killer; Holt spars with Commissioner Kelly."""
+
+    [[seasons.episodes]]
+    title = "Suicide Squad"
+    aired = "2019-05-16"
+    description = """Desperate circumstances call for desperate measures as the squad allies itself with old enemies."""
+
+[[seasons]]
+title = "Season 7"
+
+    [[seasons.episodes]]
+    title = "Manhunter"
+    aired = "2020-02-06"
+    description = """Jake leads a manhunt after an assassination attempt on a city councilor."""
+
+    [[seasons.episodes]]
+    title = "Captain Kim"
+    aired = "2020-02-06"
+    description = """A new captain attempts to ingratiate herself with the squad by inviting them to a dinner party."""
+
+    [[seasons.episodes]]
+    title = "Pimemento"
+    aired = "2020-02-13"
+    description = """Adrian Pimento shows up unexpectedly to seek Jake and Charles' help."""
+
+    [[seasons.episodes]]
+    title = "The Jimmy Jab Games II"
+    aired = "2020-02-20"
+    description = """Competitive juices are flowing as Jake and the squad compete in the second Jimmy Jab Games."""
+
+    [[seasons.episodes]]
+    title = "Debbie"
+    aired = "2020-02-27"
+    description = """When cocaine and weapons are stolen from evidence, the squad must investigate the Nine-Nine itself."""
+
+    [[seasons.episodes]]
+    title = "Trying"
+    aired = "2020-03-05"
+    description = """Jake and Amy work an uncrackable case while Holt adjusts to a new beat."""
+
+    [[seasons.episodes]]
+    title = "Ding Dong"
+    aired = "2020-03-12"
+    description = """Capt. Holt deals with a personal loss; Jake must decide who to take to an exclusive event."""
+
+    [[seasons.episodes]]
+    title = "The Takeback"
+    aired = "2020-03-19"
+    description = """Doug Judy is back, and this time, things between him and Jake are personal."""
+
+    [[seasons.episodes]]
+    title = "Dillman"
+    aired = "2020-03-26"
+    description = """When a prank goes disastrously awry, things at the Nine-Nine take a distinctly Agatha Christie turn."""
+
+    [[seasons.episodes]]
+    title = "Admiral Peralta"
+    aired = "2020-04-02"
+    description = """Jake and his father deal with unsettled family business; Amy and Rosa work a high-profile case."""
+
+    [[seasons.episodes]]
+    title = "Valloweaster"
+    aired = "2020-04-09"
+    description = """The squad competes in an effort to determine who is the greatest human/genius."""
+
+    [[seasons.episodes]]
+    title = "Ransom"
+    aired = "2020-04-16"
+    description = """Holt asks for Jake's help in a case that is exceptionally meaningful to him."""
+
+    [[seasons.episodes]]
+    title = "Lights Out"
+    aired = "2020-04-23"
+    description = """The entire squad is on high alert when a massive blackout hits Brooklyn."""
+
+[[seasons]]
+title = "Season 8"
+
+    [[seasons.episodes]]
+    title = "The Good Ones"
+    aired = "2021-08-12"
+    description = """Amy returns from maternity leave; Jake and Rosa work a difficult case. """
+
+    [[seasons.episodes]]
+    title = "The Lake House"
+    aired = "2021-08-12"
+    description = """The squad takes Capt. Holt up on an offer for a weekend getaway."""
+
+    [[seasons.episodes]]
+    title = "Blue Flu"
+    aired = "2021-08-19"
+    description = """Captain Holt and Amy manage an understaffed precinct; Jake and Charles investigate."""
+
+    [[seasons.episodes]]
+    title = "Balancing"
+    aired = "2021-08-19"
+    description = """Jake and Amy create a system to balance work and childcare; Rosa gets a new houseguest."""
+
+    [[seasons.episodes]]
+    title = "PB & J"
+    aired = "2021-08-26"
+    description = """Jake takes an old friend for a ride."""
+
+    [[seasons.episodes]]
+    title = "The Set Up"
+    aired = "2021-08-26"
+    description = """When the FBI takes over a high-profile case, Jake keeps digging; Amy and Rosa negotiate with O'Sullivan and the police union."""
+
+    [[seasons.episodes]]
+    title = "Games of Boyles"
+    aired = "2021-09-02"
+    description = """Terry, Jake and Charles visit the Boyle Family Farm; Amy and Rosa help out Capt. Holt."""
+
+    [[seasons.episodes]]
+    title = "Renewal"
+    aired = "2021-09-02"
+    description = """The squad comes together to work an important high-stakes case."""
+
+    [[seasons.episodes]]
+    title = "The Last Day (Part 1)"
+    aired = "2021-09-16"
+    description = """The squad takes stock of their eight years together and look toward's their future."""
+
+    [[seasons.episodes]]
+    title = "The Last Day (Part 2)"
+    aired = "2021-09-16"
+    description = """The squad takes stock of their eight years together and look toward's their future."""
