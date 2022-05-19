@@ -1,0 +1,35 @@
+title = "The Office"
+
+[[seasons]]
+title = "Season 1"
+
+	[[seasons.episodes]]
+	title = "Pilot"
+	aired = "2005-03-24"
+	description = """Dunder Mifflin manager Michael Scott tries to stay upbeat when a documentary crew arrives amid downsizing rumors."""
+
+	[[seasons.episodes]]
+	title = "Diversity Day"
+	aired = "2005-03-29"
+	description = """Michael flouts a mandated diversity training and makes the office suffer through his stereotype-riddled alternative."""
+
+	[[seasons.episodes]]
+	title = "Health Care"
+	aired = "2005-04-05"
+	description = """When Dwight tries to gut the company health plan, Jim thwarts his efforts by inventing creative preexisting conditions."""
+
+	[[seasons.episodes]]
+	title = "The Alliance"
+	aired = "2005-04-12"
+	description = """An uneasy Dwight wants to protect his job from downsizing by forming an alliance; Michael attempts to raise morale."""
+
+	[[seasons.episodes]]
+	title = "Basketball"
+	aired = "2005-04-19"
+	description = """Facing a basketball game against the warehouse employees, Michael raises the stakes and bets on his handpicked team."""
+
+	[[seasons.episodes]]
+	title = "Hot Girl"
+	aired = "2005-04-26"
+	description = """Michael bends his policy against vendors in the workplace when an attractive woman shows up to sell handbags."""
+
