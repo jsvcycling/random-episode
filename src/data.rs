@@ -16,6 +16,7 @@ lazy_static! {
     static ref DATA: HashMap<String, Show> = {
         let mut data = HashMap::new();
 
+        add_show!(data, "brooklyn-nine-nine");
         add_show!(data, "community");
         add_show!(data, "friends");
         add_show!(data, "halt-and-catch-fire");
@@ -23,6 +24,7 @@ lazy_static! {
         add_show!(data, "peaky-blinders");
         add_show!(data, "silicon-valley");
         add_show!(data, "superstore");
+        add_show!(data, "the-office");
 
         data
     };

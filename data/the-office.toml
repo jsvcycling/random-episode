@@ -1,0 +1,1044 @@
+title = "The Office"
+
+[[seasons]]
+title = "Season 1"
+
+	[[seasons.episodes]]
+	title = "Pilot"
+	aired = "2005-03-24"
+	description = """Dunder Mifflin manager Michael Scott tries to stay upbeat when a documentary crew arrives amid downsizing rumors."""
+
+	[[seasons.episodes]]
+	title = "Diversity Day"
+	aired = "2005-03-29"
+	description = """Michael flouts a mandated diversity training and makes the office suffer through his stereotype-riddled alternative."""
+
+	[[seasons.episodes]]
+	title = "Health Care"
+	aired = "2005-04-05"
+	description = """When Dwight tries to gut the company health plan, Jim thwarts his efforts by inventing creative preexisting conditions."""
+
+	[[seasons.episodes]]
+	title = "The Alliance"
+	aired = "2005-04-12"
+	description = """An uneasy Dwight wants to protect his job from downsizing by forming an alliance; Michael attempts to raise morale."""
+
+	[[seasons.episodes]]
+	title = "Basketball"
+	aired = "2005-04-19"
+	description = """Facing a basketball game against the warehouse employees, Michael raises the stakes and bets on his handpicked team."""
+
+	[[seasons.episodes]]
+	title = "Hot Girl"
+	aired = "2005-04-26"
+	description = """Michael bends his policy against vendors in the workplace when an attractive woman shows up to sell handbags."""
+
+[[seasons]]
+title = "Season 2"
+
+	[[seasons.episodes]]
+	title = "The Dundies"
+	aired = "2005-09-20"
+	description = """The staff prepares to endure the annual office award ceremony just as Michael learns corporate won't pay for it."""
+
+	[[seasons.episodes]]
+	title = "Sexual Harassment"
+	aired = "2005-09-27"
+	description = """Sleazy sales rep Todd Packer visits Michael; HR gets on Michael's case for forwarding inappropriate emails."""
+
+	[[seasons.episodes]]
+	title = "Office Olympics"
+	aired = "2005-10-04"
+	description = """Dwight tries to help Michael close the deal on a condo; Jim and Pam organize an Olympic-themed office competition."""
+
+	[[seasons.episodes]]
+	title = "The Fire"
+	aired = "2005-10-11"
+	description = """An unplanned office evacuation leads to downtime and impromptu rounds of NSFW games."""
+
+	[[seasons.episodes]]
+	title = "Halloween"
+	aired = "2005-10-18"
+	description = """As the staff preps for a Halloween party, Michael can't decide who to let go, putting a damper on the festivities."""
+
+	[[seasons.episodes]]
+	title = "The Fight"
+	aired = "2005-11-01"
+	description = """Dwight tries to prove his purple belt merit by gut-punching Michael; Jim organizes a lunchtime rematch at Dwight's dojo."""
+
+	[[seasons.episodes]]
+	title = "The Client"
+	aired = "2005-11-08"
+	description = """Jan heads to Chili's with Michael and cringes at his strategies for winning over a new client."""
+
+	[[seasons.episodes]]
+	title = "Performance Review"
+	aired = "2005-11-15"
+	description = """Michael dusts off the office suggestion box in search of ideas he can steal and present to Jan for his annual review."""
+
+	[[seasons.episodes]]
+	title = "Email Surveillance"
+	aired = "2005-11-22"
+	description = """Michael begins monitoring his staff’s emails and discovers he was excluded from Jim’s barbecue get-together."""
+
+	[[seasons.episodes]]
+	title = "Christmas Party"
+	aired = "2005-12-06"
+	description = """The Secret Santa gift exchange goes awry as Michael's "Yankee Swap" lands personalized presents in the wrong hands."""
+
+	[[seasons.episodes]]
+	title = "Booze Cruise"
+	aired = "2006-01-05"
+	description = """Michael tries to motivate the Dunder Mifflin crew with a surprise harbor cruise; a buzzed Jim makes a confession."""
+
+	[[seasons.episodes]]
+	title = "The Injury"
+	aired = "2006-01-12"
+	description = """Michael demands attention from the entire office after he accidentally cooks his foot on a George Foreman Grill."""
+
+	[[seasons.episodes]]
+	title = "The Secret"
+	aired = "2006-01-19"
+	description = """Desperate to keep Michael from spilling the beans about Pam, Jim puts up with a trip to Hooters."""
+
+	[[seasons.episodes]]
+	title = "The Carpet"
+	aired = "2006-01-26"
+	description = """Michael questions his popularity when he finds a foul surprise on his office floor; Jim gets relegated to a vacant desk."""
+
+	[[seasons.episodes]]
+	title = "Boys and Girls"
+	aired = "2006-02-02"
+	description = """Jan's "Women in the Workplace" seminar prompts Michael to host a parallel meeting with the guys; Pam eyes an internship."""
+
+	[[seasons.episodes]]
+	title = "Valentine's Day"
+	aired = "2006-02-09"
+	description = """Pam holds out hope for a Valentine's Day gift from Roy; Jan and Michael head to New York for a corporate meeting."""
+
+	[[seasons.episodes]]
+	title = "Dwight's Speech"
+	aired = "2006-03-02"
+	description = """A nervous Dwight takes dubious tips from Michael and Jim in preparation for a keynote speech as \"Salesman of the Year.\""""
+
+	[[seasons.episodes]]
+	title = "Take Your Daughter to Work Day"
+	aired = "2006-03-16"
+	description = """Michael strikes up an unexpected friendship with Toby's five-year-old daughter; Pam takes note of Jim's way with kids."""
+
+	[[seasons.episodes]]
+	title = "Michael's Birthday"
+	aired = "2006-03-30"
+	description = """While Kevin nervously awaits medical results, Michael drags the office to an ice rink birthday party for himself."""
+
+	[[seasons.episodes]]
+	title = "Drug Testing"
+	aired = "2006-04-27"
+	description = """Dwight finds half a joint in the parking lot and launches a full investigation."""
+
+	[[seasons.episodes]]
+	title = "Conflict Resolution"
+	aired = "2006-05-04"
+	description = """Michael takes over HR's conflict resolution efforts and chaos ensues among the officemates."""
+
+	[[seasons.episodes]]
+	title = "Casino Night"
+	aired = "2006-05-11"
+	description = """When the branch hosts a charity casino night in the warehouse, the employees take some big gambles."""
+
+[[seasons]]
+title = "Season 3"
+
+	[[seasons.episodes]]
+	title = "Gay Witch Hunt"
+	aired = "2006-09-21"
+	description = """Jim feels like a fish out of water at the Stamford branch; Michael inadvertently outs a gay employee."""
+
+	[[seasons.episodes]]
+	title = "The Convention"
+	aired = "2006-09-28"
+	description = """Dwight, Michael, Jan and Jim reconnect at a paper convention; Pam gets ready for a double date alongside Kelly and Ryan."""
+
+	[[seasons.episodes]]
+	title = "The Coup"
+	aired = "2006-10-05"
+	description = """After Jan busts Michael for hosting "Movie Monday" during work hours, Dwight makes a secret play for Michael's job."""
+
+	[[seasons.episodes]]
+	title = "Grief Counseling"
+	aired = "2006-10-12"
+	description = """Michael grapples with his fears after learning that his former boss has died; Jim bonds with a new coworker."""
+
+	[[seasons.episodes]]
+	title = "Initiation"
+	aired = "2006-10-19"
+	description = """Ryan gets an unconventional sales lesson at Dwight's family beet farm; Stanley and Michael line up for Pretzel Day."""
+
+	[[seasons.episodes]]
+	title = "Diwali"
+	aired = "2006-11-02"
+	description = """Kelly invites the office to a Diwali celebration; inspired by a couple's lifelong romance, Michael acts on his feelings."""
+
+	[[seasons.episodes]]
+	title = "Branch Closing"
+	aired = "2006-11-09"
+	description = """With news of Scranton's branch closing, the team envisions alternative futures; Michael and Dwight try to save the day."""
+
+	[[seasons.episodes]]
+	title = "The Merger"
+	aired = "2006-11-16"
+	description = """Jim and Pam reunite when the Scranton and Stamford branches merge; Michael welcomes eager new transfers Andy and Karen."""
+
+	[[seasons.episodes]]
+	title = "The Convict"
+	aired = "2006-11-30"
+	description = """After discovering an employee was formerly incarcerated, the staff glamorizes prison life over office life."""
+
+	[[seasons.episodes]]
+	title = "Benihana Christmas Part 1"
+	aired = "2006-12-14"
+	description = """Dwight and Andy compete to cheer up Michael after a Christmas card gone wrong leads to relationship turbulence."""
+
+	[[seasons.episodes]]
+	title = "Benihana Christmas Part 2"
+	aired = "2007-12-14"
+	description = """Karen and Pam host a margarita-fueled karaoke bash to lure people away from Angela's overbearing Christmas party."""
+
+	[[seasons.episodes]]
+	title = "Back from Vacation"
+	aired = "2007-01-04"
+	description = """Michael accidentally leaks a racy photo; Karen fumes when Jim drags his feet."""
+
+	[[seasons.episodes]]
+	title = "Traveling Salesmen"
+	aired = "2007-01-11"
+	description = """Jim and Dwight reluctantly pair up for sales calls; Dwight covers for Angela when she misses a deadline."""
+
+	[[seasons.episodes]]
+	title = "The Return"
+	aired = "2007-01-18"
+	description = """The staff plans a party to celebrate Oscar's return; Andy grates on nerves; an office prank takes an unexpected turn."""
+
+	[[seasons.episodes]]
+	title = "Ben Franklin"
+	aired = "2007-02-01"
+	description = """Eccentric adult performers entertain the office in honor of Phyllis' upcoming wedding; Karen confronts Pam about Jim."""
+
+	[[seasons.episodes]]
+	title = "Phyllis' Wedding"
+	aired = "2007-02-08"
+	description = """Phyllis regrets giving Michael a ceremony task; Dwight hunts for party crashers; Pam sees her stolen ideas on display."""
+
+	[[seasons.episodes]]
+	title = "Business School"
+	aired = "2007-02-15"
+	description = """Pam invites the office to her art exhibition; Michael speaks at Ryan's business school; Dwight battles a bat."""
+
+	[[seasons.episodes]]
+	title = "Cocktails"
+	aired = "2007-02-22"
+	description = """Michael and Jan go public with their relationship; Pam makes a confession to Roy at an office happy hour."""
+
+	[[seasons.episodes]]
+	title = "The Negotiation"
+	aired = "2007-04-05"
+	description = """An enraged Roy wants revenge; Darryl asks Michael for a raise; Angela inquires about Dwight's office heroism."""
+
+	[[seasons.episodes]]
+	title = "Safety Training"
+	aired = "2007-04-12"
+	description = """Andy returns from anger management classes; Michael stages a stunt to illustrate the dangers of the modern office."""
+
+	[[seasons.episodes]]
+	title = "Product Recall"
+	aired = "2007-04-26"
+	description = """A paper shipment's lewd watermark throws the branch into crisis mode; Kelly tries to coach Angela on client apologies."""
+
+	[[seasons.episodes]]
+	title = "Women's Appreciation"
+	aired = "2007-05-03"
+	description = """Michael gets an earful from the women in the office after Phyllis gets flashed; Pam helps Dwight hunt for the culprit."""
+
+	[[seasons.episodes]]
+	title = "Beach Games"
+	aired = "2007-05-10"
+	description = """Expecting a promotion, Michael organizes a competition to find a worthy successor; Pam summons unprecedented courage."""
+
+	[[seasons.episodes]]
+	title = "The Job Part 1"
+	aired = "2007-05-17"
+	description = """Jim and Karen head to New York to compete for the promotion; Michael puts Dwight in charge; Jan wants another chance."""
+
+	[[seasons.episodes]]
+	title = "The Job Part 2"
+	aired = "2007-05-17"
+	description = """Dwight's new regime institutes sweeping reforms; Pam revels in her new sense of self; a torn Jim acts on an impulse."""
+
+[[seasons]]
+title = "Season 4"
+
+	[[seasons.episodes]]
+	title = "Fun Run Part 1"
+	aired = "2007-09-27"
+	description = """After a freak accident, Michael thinks the office is cursed; as the promotion dust settles, Kevin smells a romance."""
+
+	[[seasons.episodes]]
+	title = "Fun Run Part 2"
+	aired = "2007-09-27"
+	description = """Michael holds a 5K charity run to try to lift the branch's curse; Angela regrets entrusting her ailing cat to Dwight."""
+
+	[[seasons.episodes]]
+	title = "Dunder Mifflin Infinity Part 1"
+	aired = "2007-10-04"
+	description = """The older employees struggle as Ryan brings the company into the digital age; Angela gives Dwight a reality check."""
+
+	[[seasons.episodes]]
+	title = "Dunder Mifflin Infinity Part 2"
+	aired = "2007-10-04"
+	description = """Michael sets out to prove he can win back clients without any fancy new technology; Ryan asks Pam to design a logo."""
+
+	[[seasons.episodes]]
+	title = "Launch Party Part 1"
+	aired = "2007-10-11"
+	description = """Dwight goes head-to-head with online sales in a battle of man versus machine; Michael and Jim head to the VIP bash."""
+
+	[[seasons.episodes]]
+	title = "Launch Part Part 2"
+	aired = "2007-10-11"
+	description = """Michael mistakenly orders unpopular pizza; Andy makes a move on Angela as she preps for the party."""
+
+	[[seasons.episodes]]
+	title = "Money Part 1"
+	aired = "2007-10-18"
+	description = """Michael tackles his growing debt by moonlighting as a telemarketer; Jim and Pam book a memorable stay at Dwight's farm."""
+
+	[[seasons.episodes]]
+	title = "Money Part 2"
+	aired = "2007-10-18"
+	description = """Dwight can't bear watching Andy wear Angela down; Michael enlists Oscar's financial savvy and panics on a call with Jan."""
+
+	[[seasons.episodes]]
+	title = "Local Ad"
+	aired = "2007-10-25"
+	description = """Michael leads the branch in creating their own version of a company commercial; Dwight loses himself in an online world."""
+
+	[[seasons.episodes]]
+	title = "Branch Wars"
+	aired = "2007-11-01"
+	description = """Michael ropes Jim into a scheme against Karen when she woos Stanley away from Scranton; Andy eyes the Finer Things Club."""
+
+	[[seasons.episodes]]
+	title = "Survivor Man"
+	aired = "2007-11-08"
+	description = """Excluded from a camping trip, Michael embarks on a solo adventure in the woods; Jim tries to combine office birthdays."""
+
+	[[seasons.episodes]]
+	title = "The Deposition"
+	aired = "2007-11-15"
+	description = """Michael must serve as a witness when Jan sues Dunder Mifflin; Kelly trash talks Pam when Darryl beats Jim at ping-pong."""
+
+	[[seasons.episodes]]
+	title = "Dinner Party"
+	aired = "2008-04-10"
+	description = """Jim and Pam run out of excuses to avoid a dinner date with an increasingly dysfunctional Jan and Michael."""
+
+	[[seasons.episodes]]
+	title = "Chair Model"
+	aired = "2008-04-17"
+	description = """Dwight helps Michael find a supply catalog's attractive model; Jim can't resist a playful response to Pam's ultimatum."""
+
+	[[seasons.episodes]]
+	title = "Night Out"
+	aired = "2008-04-24"
+	description = """Michael and Dwight see an unexpected side of Ryan at a New York club; Jim's plan to avoid working on Saturday backfires."""
+
+	[[seasons.episodes]]
+	title = "Did I Stutter?"
+	aired = "2008-05-01"
+	description = """Stanley snaps at Michael and the two have it out; Dwight finagles a deal on Andy's car."""
+
+	[[seasons.episodes]]
+	title = "Job Fair"
+	aired = "2008-05-08"
+	description = """Jim hits the golf course in hopes of landing a big client; Michael heads a job fair booth at Pam's alma mater."""
+
+	[[seasons.episodes]]
+	title = "Goodbye, Toby Part 1"
+	aired = "2008-05-15"
+	description = """Michael wants a huge celebration for Toby's last day; Dwight and Meredith haze Holly, the new HR rep."""
+
+	[[seasons.episodes]]
+	title = "Goodbye, Toby Part 2"
+	aired = "2008-05-15"
+	description = """As Toby's farewell party takes shape, Jim prepares to pop the question."""
+
+[[seasons]]
+title = "Season 5"
+
+	[[seasons.episodes]]
+	title = "Weight Loss Part 1"
+	aired = "2008-09-25"
+	description = """The branch preps for a company-wide weight-loss competition with a gluttonous meal; Pam begins art school in New York."""
+
+	[[seasons.episodes]]
+	title = "Weight Loss Part 2"
+	aired = "2008-09-25"
+	description = """Corporate ups the stakes in the weight-loss incentive program; as Michael gets closer to Holly, Jim pines for Pam."""
+
+	[[seasons.episodes]]
+	title = "Business Ethics"
+	aired = "2008-10-09"
+	description = """A workplace ethics seminar spirals out of control; Jim holds Dwight to the company's "time theft" policy."""
+
+	[[seasons.episodes]]
+	title = "Baby Shower"
+	aired = "2008-10-16"
+	description = """Dwight preps Michael for a slew of birthing scenarios; Michael pretends to dislike Holly during Jan's baby shower."""
+
+	[[seasons.episodes]]
+	title = "Crime Aid"
+	aired = "2008-10-23"
+	description = """Pam takes a job at corporate HQ to help with school expenses; Michael holds a fundraiser after the office gets robbed."""
+
+	[[seasons.episodes]]
+	title = "Employee Transfer"
+	aired = "2008-10-30"
+	description = """Holly and Michael head to Nashua after getting disappointing news from corporate; Dwight tries to get under Andy's skin."""
+
+	[[seasons.episodes]]
+	title = "Customer Survey"
+	aired = "2008-11-06"
+	description = """Kelly's annual customer survey results shock the branch's top salesmen; Angela demands an oddly specific wedding venue."""
+
+	[[seasons.episodes]]
+	title = "Business Trip"
+	aired = "2008-11-13"
+	description = """Andy and Oscar bond when Michael brings them along on a business trip to Canada; Jim counts down to Pam's return."""
+
+	[[seasons.episodes]]
+	title = "Frame Toby"
+	aired = "2008-11-20"
+	description = """No one wants to own up to the microwave foodsplosion; Michael discovers his least favorite employee is back in Scranton."""
+
+	[[seasons.episodes]]
+	title = "The Surplus"
+	aired = "2008-12-04"
+	description = """Oscar identifies a budget surplus the office must decide how to spend by day's end; Angela and Andy tour Schrute Farms."""
+
+	[[seasons.episodes]]
+	title = "Moroccan Christmas"
+	aired = "2008-12-11"
+	description = """Meredith accidentally sets herself on fire; Michael stages an impromptu intervention; Phyllis reaches a breaking point."""
+
+	[[seasons.episodes]]
+	title = "The Duel"
+	aired = "2009-01-15"
+	description = """Andy is still in the dark about Angela's affair; Michael is nervous about a corporate meeting with David Wallace."""
+
+	[[seasons.episodes]]
+	title = "Prince Family Paper"
+	aired = "2009-01-22"
+	description = """Michael and Dwight go undercover; the office dedicates an entire workday to debating whether or not Hilary Swank is hot."""
+
+	[[seasons.episodes]]
+	title = "Stress Relief Part 1"
+	aired = "2009-02-01"
+	description = """Dwight is in hot water after his office fire drill gets a little too real; Pam's parents hit marital turbulence."""
+
+	[[seasons.episodes]]
+	title = "Stress Relief Part 2"
+	aired = "2009-02-01"
+	description = """Michael lets the office blow off steam by roasting him; Jim's heart to heart with Pam's dad does not go as expected."""
+
+	[[seasons.episodes]]
+	title = "Lecture Circuit Part 1"
+	aired = "2009-02-05"
+	description = """Pam joins Michael as he tries to impart his sales wisdom during a tour of the branches; Jim and Dwight miss a birthday."""
+
+	[[seasons.episodes]]
+	title = "Lecture Circuit Part 2"
+	aired = "2009-02-12"
+	description = """Michael makes a surprise stop at Holly's branch; Kelly gets an unusual office party; Angela's cat-cam causes a stir."""
+
+	[[seasons.episodes]]
+	title = "Blood Drive"
+	aired = "2009-03-05"
+	description = """Michael holds a "Lonely Hearts Party" for the office singles; Jim and Pam have an awkward lunch with Bob and Phyllis."""
+
+	[[seasons.episodes]]
+	title = "Golden Ticket"
+	aired = "2009-03-12"
+	description = """Michael tries to dodge the blame when his Willy Wonka-style discount coupons get into the wrong hands."""
+
+	[[seasons.episodes]]
+	title = "New Boss"
+	aired = "2009-03-19"
+	description = """With a new, no-nonsense VP aboard, Jim picks the wrong day to prank Dwight; Michael preps for his 15th anniversary bash."""
+
+	[[seasons.episodes]]
+	title = "Two Weeks"
+	aired = "2009-03-26"
+	description = """Tensions rise between Michael and Charles; Kelly and Angela vie for the VP's attention; Pam questions her future."""
+
+	[[seasons.episodes]]
+	title = "Dream Team"
+	aired = "2009-04-09"
+	description = """Pam helps Michael face the workday; Jim tries to make a better impression on Charles by feigning interest in soccer."""
+
+	[[seasons.episodes]]
+	title = "Michael Scott Paper Company"
+	aired = "2009-04-09"
+	description = """Jim sweats over a nebulous request from Charles; Michael makes pancakes to attract new clients; Dwight and Andy bond."""
+
+	[[seasons.episodes]]
+	title = "Heavy Competition"
+	aired = "2009-04-16"
+	description = """Michael tests Dwight's devotion; Andy gets fooled into believing that Jim needs his unwavering emotional support."""
+
+	[[seasons.episodes]]
+	title = "Broke"
+	aired = "2009-04-23"
+	description = """Pam and Ryan endure early-morning deliveries in a repurposed church van; the CEO eyes Michael's potential with unease."""
+
+	[[seasons.episodes]]
+	title = "Casual Friday"
+	aired = "2009-04-30"
+	description = """Michael makes a grand reentrance at the office and has to settle a personnel dilemma; Meredith kills "casual" Friday."""
+
+	[[seasons.episodes]]
+	title = "Cafe Disco"
+	aired = "2009-04-07"
+	description = """Michael turns the spare office space into an espresso-fueled dance party; Jim and Pam plan a secret outing."""
+
+	[[seasons.episodes]]
+	title = "Company Picnic"
+	aired = "2009-04-14"
+	description = """Michael and Holly reunite at the annual company picnic; the Scranton branch gets feisty at the volleyball tournament."""
+
+[[seasons]]
+title = "Season 6"
+
+	[[seasons.episodes]]
+	title = "Gossip"
+	aired = "2009-09-17"
+	description = """When Michael is left out of the office scuttlebutt, he stumbles upon a juicy secret and jumps at the chance to spill it."""
+
+	[[seasons.episodes]]
+	title = "The Meeting"
+	aired = "2009-09-24"
+	description = """Michael squirms at the sight of Jim's private meeting with the CEO; Toby and Dwight go undercover."""
+
+	[[seasons.episodes]]
+	title = "The Promotion"
+	aired = "2009-10-01"
+	description = """Corporate drops bad news about raises and Dwight turns the office against Jim; Pam wants cash in lieu of wedding gifts."""
+
+	[[seasons.episodes]]
+	title = "Niagra Part 1"
+	aired = "2009-10-08"
+	description = """The office hits the road for Jim and Pam's big day; Jim lets a secret slip; Andy tears it up on the dance floor."""
+
+	[[seasons.episodes]]
+	title = "Niagra Part 2"
+	aired = "2009-10-08"
+	description = """Michael and Dwight are determined to meet women, no matter how close they are to the bride; Jim quells Pam's jitters."""
+
+	[[seasons.episodes]]
+	title = "Mafia"
+	aired = "2009-10-15"
+	description = """Dwight and Andy convince Michael that an office visitor is part of the mafia; Kevin borrows Jim's office."""
+
+	[[seasons.episodes]]
+	title = "The Lover"
+	aired = "2009-10-22"
+	description = """Michael shocks the office with the identity of his new girlfriend; Dwight offers Jim a suspicious peace offering."""
+
+	[[seasons.episodes]]
+	title = "Koi Pond"
+	aired = "2009-10-29"
+	description = """Michael makes a big splash at a client meeting; Pam and Andy get mistaken for a couple and Andy lets it go to his head."""
+
+	[[seasons.episodes]]
+	title = "Double Date"
+	aired = "2009-11-05"
+	description = """Jim and Pam join Michael's birthday lunch for Helene; Dwight performs unexpected good deeds for his officemates."""
+
+	[[seasons.episodes]]
+	title = "Murder"
+	aired = "2009-11-12"
+	description = """When troubling rumors roil the office, Michael's parlor game distracts the group; Jim objects to Michael's diversions."""
+
+	[[seasons.episodes]]
+	title = "Shareholder Meeting"
+	aired = "2009-11-19"
+	description = """Michael is invited to the shareholder meeting in New York and brings Oscar, Dwight and Andy along for the ride."""
+
+	[[seasons.episodes]]
+	title = "Scott's Tots"
+	aired = "2009-12-03"
+	description = """Michael must own up to a catastrophically failed promise; Jim starts an employee of the month program to boost morale."""
+
+	[[seasons.episodes]]
+	title = "Secret Santa"
+	aired = "2009-12-10"
+	description = """Andy's themed Secret Santa gifts get increasingly wild; Michael and Phyllis become dueling Santas; Oscar has a crush."""
+
+	[[seasons.episodes]]
+	title = "The Banker"
+	aired = "2010-01-21"
+	description = """The team bends over backwards to impress an investment banker who visits the branch to sniff out potential liabilities."""
+
+	[[seasons.episodes]]
+	title = "Sabre"
+	aired = "2010-02-04"
+	description = """Andy and Erin welcome a new corporate liaison; Sabre's changes make Michael uneasy; Jim and Pam explore a local daycare."""
+
+	[[seasons.episodes]]
+	title = "The Manager and the Salesman"
+	aired = "2010-02-11"
+	description = """The Sabre CEO says either Michael or Jim must go back to sales; Andy's Valentine's Day plan backfires."""
+
+	[[seasons.episodes]]
+	title = "The Delivery Part 1"
+	aired = "2010-03-04"
+	description = """The office helps Pam endure her contractions as long as possible; Dwight and Angela draft a procreation contract."""
+
+	[[seasons.episodes]]
+	title = "The Delivery Part 2"
+	aired = "2010-03-04"
+	description = """Everyone anxiously awaits the baby's arrival; Dwight takes it upon himself to "repair" Jim and Pam's kitchen cabinets."""
+
+	[[seasons.episodes]]
+	title = "St. Patrick's Day"
+	aired = "2010-03-11"
+	description = """Michael tries to impress Jo, but Darryl eclipses him with a strategic move; Erin and Andy have an awkward first date."""
+
+	[[seasons.episodes]]
+	title = "New Leads"
+	aired = "2010-03-18"
+	description = """When the sales team gets cocky, Michael hides their prized leads; a high-stakes recovery mission ensues."""
+
+	[[seasons.episodes]]
+	title = "Happy Hour"
+	aired = "2010-03-25"
+	description = """Oscar organizes an office happy hour to get closer to his crush; Erin and Andy try to keep their relationship a secret."""
+
+	[[seasons.episodes]]
+	title = "Secretary's Day"
+	aired = "2010-04-22"
+	description = """Michael takes Erin to lunch and spills the beans about Andy and Angela; Oscar compares Kevin to the Cookie Monster."""
+
+	[[seasons.episodes]]
+	title = "Body Language"
+	aired = "2010-04-29"
+	description = """Pam and Jim work on their first joint sales pitch; Dwight urges Kelly to pursue the minority executive training program."""
+
+	[[seasons.episodes]]
+	title = "The Cover-Up"
+	aired = "2010-05-06"
+	description = """Michael sends Dwight to investigate whether Donna is cheating; no one takes Andy's customer complaint seriously."""
+
+	[[seasons.episodes]]
+	title = "The Chump"
+	aired = "2010-05-13"
+	description = """Michael is oddly upbeat after bad news; Pam and Jim struggle to stay awake; Dwight refuses to honor a contract."""
+
+	[[seasons.episodes]]
+	title = "Whistleblower"
+	aired = "2010-05-20"
+	description = """Michael basks in local media attention after the press learns of Sabre's faulty printers; Jo hunts for an informant."""
+
+[[seasons]]
+title = "Season 7"
+
+	[[seasons.episodes]]
+	title = "Nepotism"
+	aired = "2010-09-23"
+	description = """Dwight basks in a new role; Michael refuses to fire the new assistant; Pam wants to impress Jim with a prank of her own."""
+
+	[[seasons.episodes]]
+	title = "Counseling"
+	aired = "2010-09-30"
+	description = """Michael undergoes Toby's counseling; Dwight seeks revenge after a shop owner snubs him; Pam reinvents her office role."""
+
+	[[seasons.episodes]]
+	title = "Andy's Play"
+	aired = "2010-10-07"
+	description = """Andy invites the office to see him in a play, hoping Erin will attend; Jim and Pam deal with an incompetent babysitter."""
+
+	[[seasons.episodes]]
+	title = "Sex Ed"
+	aired = "2010-10-14"
+	description = """Michael thinks he has herpes and informs all of his exes; Andy tries to gauge the seriousness of an office romance."""
+
+	[[seasons.episodes]]
+	title = "The Sting"
+	aired = "2010-10-21"
+	description = """Michael orchestrates a sting operation to observe a rival salesman's technique; Andy, Darryl and Kevin start a band."""
+
+	[[seasons.episodes]]
+	title = "Constume Contest"
+	aired = "2010-10-28"
+	description = """Darryl takes an idea to corporate; a Halloween costume contest puts the office in a competitive mood."""
+
+	[[seasons.episodes]]
+	title = "Christening"
+	aired = "2010-11-04"
+	description = """The whole office celebrates the christening of Pam and Jim's baby; Michael wants to join a church's youth service trip."""
+
+	[[seasons.episodes]]
+	title = "Viewing Party"
+	aired = "2010-11-11"
+	description = """Andy is increasingly jealous as Erin and Gabe host a "Glee" watch party; Erin confides in Michael."""
+
+	[[seasons.episodes]]
+	title = "WUPHF.com"
+	aired = "2010-11-18"
+	description = """Ryan wants the staff to keep investing in his start-up; Dwight creates a fall hay festival; Angela meets someone new."""
+
+	[[seasons.episodes]]
+	title = "China"
+	aired = "2010-12-02"
+	description = """Michael and Oscar face off as they trade facts about China's standing; Dwight's "green" initiative gets out of hand."""
+
+	[[seasons.episodes]]
+	title = "Classy Christmas Part 1"
+	aired = "2010-12-09"
+	description = """Michael makes Pam postpone the Christmas party for Holly; Dwight's snowball fight with Jim escalates."""
+
+	[[seasons.episodes]]
+	title = "Classy Christmas Part 2"
+	aired = "2010-12-09"
+	description = """Oscar makes a surprising discovery about Angela's boyfriend; Holly gets an unexpected visitor at the staff party."""
+
+	[[seasons.episodes]]
+	title = "Ultimatum"
+	aired = "2011-01-20"
+	description = """Erin helps Michael prep for either good news or bad news about Holly and AJ; Pam makes a New Year's resolution board."""
+
+	[[seasons.episodes]]
+	title = "The Seminar"
+	aired = "2011-01-27"
+	description = """Holly and Michael pose as customers to help Andy attract new clientele; Oscar helps Erin take on Gabe in a phone game."""
+
+	[[seasons.episodes]]
+	title = "The Search"
+	aired = "2011-02-03"
+	description = """Jim gets an urgent call, leaving Michael to wander the city alone; Gabe tries to derail Pam's cartoon caption contest."""
+
+	[[seasons.episodes]]
+	title = "PDA"
+	aired = "2011-02-10"
+	description = """Holly and Michael's awkward affection is on full display; Andy helps Erin with Gabe's Valentine's Day treasure hunt."""
+
+	[[seasons.episodes]]
+	title = "Threat Level Midnight"
+	aired = "2011-02-17"
+	description = """Michael's action movie, 11 years in the making, is ready for its debut; Pam cautions the office to take it seriously."""
+
+	[[seasons.episodes]]
+	title = "Todd Packer"
+	aired = "2011-02-24"
+	description = """Traveling salesman Todd Packer is up for a permanent role at the Scranton branch; Pam helps Andy justify a new computer."""
+
+	[[seasons.episodes]]
+	title = "Garage Sale"
+	aired = "2011-03-24"
+	description = """A staff garage sale becomes an irresistible opportunity to prank Dwight; Michael seeks help with a major decision."""
+
+	[[seasons.episodes]]
+	title = "Training Day"
+	aired = "2011-04-14"
+	description = """From cowboy gear to a mobile barber, the office goes to great lengths to impress incoming manager Deangelo Vickers."""
+
+	[[seasons.episodes]]
+	title = "Micahel's Last Dundies"
+	aired = "2011-04-21"
+	description = """Michael coaches a microphone-shy Deangelo on how to host the annual Dundies; Erin increasingly dislikes her boyfriend."""
+
+	[[seasons.episodes]]
+	title = "Goodbye, Michael Part 1"
+	aired = "2011-04-28"
+	description = """Dwight discovers he was passed up for management; Michael is uncharacteristically detached from the party prep."""
+
+	[[seasons.episodes]]
+	title = "Goodbye, Michael Part 2"
+	aired = "2011-04-28"
+	description = """Deangelo and Andy try to keep Michael's most important clients; Michael shares parting gifts on his second to last day."""
+
+	[[seasons.episodes]]
+	title = "The Inner Circle"
+	aired = "2011-05-05"
+	description = """When Deangelo plays favorites, Jim is pressured to speak up; an office basketball exhibition takes an irreversible turn."""
+
+	[[seasons.episodes]]
+	title = "Dwight K. Schrute, (Acting) Manager"
+	aired = "2011-05-12"
+	description = """Dwight seizes the opportunity to employ draconian office policies; Gabe is desperate to get Erin back."""
+
+	[[seasons.episodes]]
+	title = "Search Committee Part 1"
+	aired = "2011-05-19"
+	description = """Darryl, Kelly, Andy and Dwight vie for the manager position; Erin eagerly awaits news about a possible birth mother."""
+
+	[[seasons.episodes]]
+	title = "Search Committee Part 2"
+	aired = "2011-05-19"
+	description = """Kelly makes a power move; Pam keeps an eye on a shifty interim boss; Erin works up the courage to pursue her crush."""
+
+[[seasons]]
+title = "Season 8"
+
+	[[seasons.episodes]]
+	title = "The List"
+	aired = "2011-09-22"
+	description = """The office is caught up in speculation upon accidentally discovering the new CEO's mysterious list of staff names."""
+
+	[[seasons.episodes]]
+	title = "The Incentive"
+	aired = "2011-09-29"
+	description = """Andy responds to the CEO's sales challenge with a highly motivating incentive; Pam finds an unlikely pregnancy friend."""
+
+	[[seasons.episodes]]
+	title = "Lotto"
+	aired = "2011-10-06"
+	description = """Darryl's warehouse team quits after winning the lotto without him; Kevin devises an inventive way to load a shipment."""
+
+	[[seasons.episodes]]
+	title = "Garden Party"
+	aired = "2011-10-13"
+	description = """Andy tries to impress his family and his new boss with a garden party at Schrute Farms; Dwight researches etiquette."""
+
+	[[seasons.episodes]]
+	title = "Spooked"
+	aired = "2011-10-27"
+	description = """To appease her bosses, Erin tries to raise the fear factor at the Halloween party; Pam and Robert tell unsettling tales."""
+
+	[[seasons.episodes]]
+	title = "Doomsday"
+	aired = "2011-11-03"
+	description = """To meet a productivity challenge, Dwight devises a plan that will get everyone fired if they make too many errors."""
+
+	[[seasons.episodes]]
+	title = "Pam's Replacement"
+	aired = "2011-11-10"
+	description = """Pam teams up with Dwight to get Jim to admit her temp replacement is pretty; Robert crashes Andy's office jam session."""
+
+	[[seasons.episodes]]
+	title = "Gettysburg"
+	aired = "2011-11-17"
+	description = """Andy drags half the staff on a field trip; Robert asks those who stay behind to brainstorm the company's next big idea."""
+
+	[[seasons.episodes]]
+	title = "Mrs. California"
+	aired = "2011-12-01"
+	description = """Robert gives conflicting signals about hiring his wife; Dwight opens a gym in the building and finds his first customer."""
+
+	[[seasons.episodes]]
+	title = "Christmas Wishes"
+	aired = "2011-12-08"
+	description = """Erin envies Andy's new flame and Robert stirs the pot; Darryl makes a chivalrous move when Val feels out of place."""
+
+	[[seasons.episodes]]
+	title = "Trivia"
+	aired = "2012-01-12"
+	description = """The office competes against Oscar's trivia group for much-needed cash; Dwight goes for a job at Sabre's headquarters."""
+
+	[[seasons.episodes]]
+	title = "Pool Party"
+	aired = "2012-01-19"
+	description = """Before selling his mansion, Robert throws an office pool party; Erin flirts with Dwight to get Andy's attention."""
+
+	[[seasons.episodes]]
+	title = "Jury Duty"
+	aired = "2012-02-02"
+	description = """After Jim's jury duty, Dwight fixates on a technicality from the case; Angela and the senator welcome their new baby."""
+
+	[[seasons.episodes]]
+	title = "Special Project"
+	aired = "2012-02-09"
+	description = """Dwight gets to assemble a team for a Sabre project in Florida; Darryl has a special gift for his Valentine's Day crush."""
+
+	[[seasons.episodes]]
+	title = "Tallahassee"
+	aired = "2012-02-16"
+	description = """Dwight and Todd Packer compete for a promotion as the Florida task force preps to open a Sabre retail store."""
+
+	[[seasons.episodes]]
+	title = "After Hours"
+	aired = "2012-02-23"
+	description = """Nellie hosts a happy hour; Dwight helps Jim handle unwanted attention; Val's boyfriend confronts Darryl."""
+
+	[[seasons.episodes]]
+	title = "Test the Store"
+	aired = "2012-03-01"
+	description = """Dwight oversees the store's grand opening; after Andy gets socked in the parking lot, Toby teaches self-defense."""
+
+	[[seasons.episodes]]
+	title = "Last Day in Florida"
+	aired = "2012-03-08"
+	description = """Robert reveals his contempt for the store; Jim tries to save Dwight's job; Andy learns that Erin is staying in Florida."""
+
+	[[seasons.episodes]]
+	title = "Get the Girl"
+	aired = "2012-03-15"
+	description = """While Andy makes a cross-country trip to go after Erin, Nellie moves into his office and stakes a claim on his position."""
+
+	[[seasons.episodes]]
+	title = "Welcome Party"
+	aired = "2012-04-12"
+	description = """Jim and Dwight help Nellie move while the office plans her not-so-welcome party; Erin helps Andy confront Jessica."""
+
+	[[seasons.episodes]]
+	title = "Angry Andy"
+	aired = "2012-04-19"
+	description = """Andy returns to Scranton and battles with Nellie over both his job and his manhood; Kelly waffles between Ryan and Ravi."""
+
+	[[seasons.episodes]]
+	title = "Fundraiser"
+	aired = "2012-04-26"
+	description = """Oscar gets unexpected attention at a fundraiser; unemployed Andy feigns success; Dwight learns how silent auctions work."""
+
+	[[seasons.episodes]]
+	title = "Turf War"
+	aired = "2012-05-03"
+	description = """After Robert drunkenly shuts down a branch, Jim and Dwight join forces to woo a client; Andy tries to make a comeback."""
+
+	[[seasons.episodes]]
+	title = "Free Family Portrait Studio"
+	aired = "2012-05-10"
+	description = """Angela tries to dodge Dwight's paternity test scheme; Andy's down-and-out ruse backfires ahead of big company news."""
+
+[[seasons]]
+title = "Season 9"
+
+	[[seasons.episodes]]
+	title = "New Guys"
+	aired = "2012-09-20"
+	description = """A new duo joins the office; Andy returns from a leadership retreat, intent on revenge; Jim weighs a new opportunity."""
+
+	[[seasons.episodes]]
+	title = "Roy's Wedding"
+	aired = "2012-09-27"
+	description = """Pam and Jim are uneasy at Roy's wedding; Oscar reveals who he is seeing; Dwight reacts to Nellie's charity initiative."""
+
+	[[seasons.episodes]]
+	title = "Andy's Ancestry"
+	aired = "2012-10-04"
+	description = """Andy flaunts a discovery Nellie made about his ancestry; Darryl navigates a new role; Jim reveals a secret."""
+
+	[[seasons.episodes]]
+	title = "Work Bus"
+	aired = "2012-10-18"
+	description = """Jim's plot for time off backfires; Erin helps Nellie on her quest to adopt; Dwight is downhearted over his future."""
+
+	[[seasons.episodes]]
+	title = "Here Comes Treble"
+	aired = "2012-10-25"
+	description = """Andy invites his old a cappella group to perform for Halloween; under pressure at the new job, Jim acts on an impulse."""
+
+	[[seasons.episodes]]
+	title = "The Boat"
+	aired = "2012-11-08"
+	description = """Andy steps up when he learns his family is broke; Dwight gets a radio interview; Kevin discovers Oscar's secret."""
+
+	[[seasons.episodes]]
+	title = "The Whale"
+	aired = "2012-11-15"
+	description = """The women of the office try to help Dwight win over an elusive female client; Angela suspects the senator is cheating."""
+
+	[[seasons.episodes]]
+	title = "The Target"
+	aired = "2012-11-29"
+	description = """Angela begs Dwight for an unsavory deed; Stanley and Phyllis milk Jim's request for a favor; Pam faces her self-doubts."""
+
+	[[seasons.episodes]]
+	title = "Dwight Christmas"
+	aired = "2012-12-06"
+	description = """When the office forgets to plan a Christmas party, Dwight throws an authentic Pennsylvania Dutch Christmas celebration."""
+
+	[[seasons.episodes]]
+	title = "Lice"
+	aired = "2013-01-10"
+	description = """With Jim away, Pam struggles to manage the kids and accidentally brings lice to work; Darryl convinces Val to leave him."""
+
+	[[seasons.episodes]]
+	title = "Suit Warehouse"
+	aired = "2013-01-17"
+	description = """Clark poses as Dwight's son; Darryl makes a splash at an interview; Pam pays Jim an unexpected visit."""
+
+	[[seasons.episodes]]
+	title = "Customer Loyalty"
+	aired = "2013-01-24"
+	description = """Dwight tries to get Darryl to stay; Nellie regrets pairing up Erin and Pete; Jim and Pam argue over Cece's recital."""
+
+	[[seasons.episodes]]
+	title = "Junior Salesman"
+	aired = "2013-01-31"
+	description = """Dwight makes Clark compete for a new junior sales role to fill in for Jim, who is increasingly focused on his side job."""
+
+	[[seasons.episodes]]
+	title = "Vandalism"
+	aired = "2013-01-31"
+	description = """Pam wants justice when her warehouse mural gets defaced; Darryl has a hard time dealing with Jim's sloppy habits."""
+
+	[[seasons.episodes]]
+	title = "Couples Discount"
+	aired = "2013-02-07"
+	description = """The office tries to get couples' discounts at the mall by pretending to be paired up; Erin vows to break up with Andy."""
+
+	[[seasons.episodes]]
+	title = "Moving On Part 1"
+	aired = "2013-02-14"
+	description = """Wallace is floored to discover Andy was away for an entire quarter; Dwight asks Angela for help with his elderly aunt."""
+
+	[[seasons.episodes]]
+	title = "Moving On Part 2"
+	aired = "2013-02-14"
+	description = """Pam's interview gives her Michael Scott flashbacks; Nellie takes Toby to visit the Scranton Strangler."""
+
+	[[seasons.episodes]]
+	title = "The Farm"
+	aired = "2013-03-14"
+	description = """Dwight drags Oscar to a Schrute family funeral; Pam doesn't trust Todd Packer's attempt to make amends."""
+
+	[[seasons.episodes]]
+	title = "Promos"
+	aired = "2013-04-04"
+	description = """The office is excited and nervous after seeing the documentary teaser; Angela is jealous of Dwight's new girlfriend."""
+
+	[[seasons.episodes]]
+	title = "Stairmageddon"
+	aired = "2013-04-11"
+	description = """The elevator is down; Dwight forces Stanley to make a sales call; Pam and Jim hit an impasse; Angela stands by her man."""
+
+	[[seasons.episodes]]
+	title = "Paper Airplane"
+	aired = "2013-04-25"
+	description = """Nellie referees a paper airplane contest; Darryl supports Andy at his first acting gig; Jim and Pam try to open up."""
+
+	[[seasons.episodes]]
+	title = "Livin' the Dream Part 1"
+	aired = "2013-05-02"
+	description = """Jim takes time away from Philadelphia to be closer to Pam; Dwight has his best workday ever; Angela hits rock bottom."""
+
+	[[seasons.episodes]]
+	title = "Livin' the Dream Part 2"
+	aired = "2013-05-02"
+	description = """Andy waffles over whether or not to quit his job and pursue his showbiz dreams; Dwight makes an offer Jim can't refuse."""
+
+	[[seasons.episodes]]
+	title = "A.A.R.M. Part 1"
+	aired = "2013-05-09"
+	description = """Jim convinces Dwight to hire an assistant to the assistant to the regional manager; Pam confesses her deepest fear."""
+
+	[[seasons.episodes]]
+	title = "A.A.R.M. Part 2"
+	aired = "2013-05-09"
+	description = """As the office gets ready for the premiere, Darryl gets one last request; Dwight and Jim make grand overtures."""
+
+	[[seasons.episodes]]
+	title = "Finale Part 1 and Part 2"
+	aired = "2013-05-16"
+	description = """Months after the premiere, past and present coworkers gather for a retrospective panel interview and a barnyard wedding."""
+
