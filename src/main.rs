@@ -10,6 +10,11 @@ use axum::routing::get;
 use axum::{Router, Server};
 use tera::{Context, Tera};
 use tokio::signal;
+use tower_http::trace::{DefaultMakeSpan, DefaultOnRequest, DefaultOnResponse, TraceLayer};
+use tower_http::LatencyUnit;
+use tracing::Level;
+use tracing_subscriber::layer::SubscriberExt;
+use tracing_subscriber::util::SubscriberInitExt;
 
 mod data;
 
@@ -24,7 +29,34 @@ lazy_static! {
 
 #[tokio::main]
 async fn main() {
-    let router = Router::new().route("/", get(index));
+    let (loki_layer, loki_task) = tracing_loki::layer(
+        "http://0.0.0.0:3100".parse().unwrap(),
+        vec![].into_iter().collect(),
+        vec![].into_iter().collect(),
+    )
+    .unwrap();
+
+    tracing_subscriber::registry()
+        .with(tracing_subscriber::EnvFilter::new(
+            std::env::var("RUST_LOG")
+                .unwrap_or_else(|_| "random_episode=debug,tower_http=debug".into()),
+        ))
+        .with(tracing_subscriber::fmt::layer())
+        .with(loki_layer)
+        .init();
+
+    tokio::spawn(loki_task);
+
+    let trace_layer = TraceLayer::new_for_http()
+        .make_span_with(DefaultMakeSpan::new().include_headers(true))
+        .on_request(DefaultOnRequest::new().level(Level::INFO))
+        .on_response(
+            DefaultOnResponse::new()
+                .level(Level::INFO)
+                .latency_unit(LatencyUnit::Micros),
+        );
+
+    let router = Router::new().route("/", get(index)).layer(trace_layer);
 
     Server::bind(&"0.0.0.0:8080".parse().unwrap())
         .serve(router.into_make_service())
@@ -61,15 +93,19 @@ async fn handle_shutdown() {
     let ctrl_c = async {
         signal::ctrl_c()
             .await
-            .expect("failed to install Ctrl+C hanadler");
+            .expect("failed to install Ctrl+C handler");
     };
 
+    #[cfg(unix)]
     let terminate = async {
         signal::unix::signal(signal::unix::SignalKind::terminate())
             .expect("failed to install signal handler")
             .recv()
             .await;
     };
+
+    #[cfg(not(unix))]
+    let terminate = std::future::pending::<()>();
 
     tokio::select! {
         _ = ctrl_c => {},
