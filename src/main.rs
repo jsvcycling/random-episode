@@ -30,8 +30,12 @@ lazy_static! {
 #[tokio::main]
 async fn main() {
     let (loki_layer, loki_task) = tracing_loki::layer(
-        "http://0.0.0.0:3100".parse().unwrap(),
-        vec![].into_iter().collect(),
+        std::env::var("GRAFANA_LOGS_URL")
+            .map(|u| u.parse().unwrap())
+            .unwrap(),
+        vec![("app".into(), "random-episode".into())]
+            .into_iter()
+            .collect(),
         vec![].into_iter().collect(),
     )
     .unwrap();
