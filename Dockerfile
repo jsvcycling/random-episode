@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN apk add libc-dev && cargo install --path .
+RUN apk add libc-dev openssl-dev && cargo install --path .
 
 FROM alpine:3.15
 
